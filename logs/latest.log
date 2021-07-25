@@ -394,3 +394,19 @@
 [09:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changing to clear weather
 [09:29:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3938ms behind, skipping 78 tick(s)
 [09:30:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3483ms behind, skipping 69 tick(s)
+[09:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changing to clear weather
+[09:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[09:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[09:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[09:43:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[09:43:29] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[09:43:29] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[09:43:29] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[09:43:29] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[09:43:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:43:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:43:29] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Server closed
+[09:43:29] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[09:43:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
