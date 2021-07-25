@@ -551,7 +551,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2021-04-11 07:48:55 -0300",
-      "bred_cow": "2021-04-11 07:18:43 -0300"
+      "bred_cow": "2021-04-11 07:18:43 -0300",
+      "bred_pig": "2021-05-16 03:21:53 -0300"
     },
     "done": false
   },

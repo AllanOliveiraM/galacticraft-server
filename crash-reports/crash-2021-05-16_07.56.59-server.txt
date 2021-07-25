@@ -1,0 +1,58 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Daisy, daisy...
+
+Time: 5/16/21 7:56 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need [0.0.4,): have missing
+	unknown : need any: have missing
+
+net.minecraftforge.fml.common.MissingModsException: Mod multibags (MultiBags) requires [zaraklib@[0.0.4,), baubles]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_291, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 5968630736 bytes (5692 MB) / 6174015488 bytes (5888 MB) up to 6174015488 bytes (5888 MB)
+	JVM Flags: 2 total; -Xmx6144M -Xms6144M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 9 mods loaded, 9 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version      | Source                              | Signature                                |
+	|:----- |:------------------- |:------------ |:----------------------------------- |:---------------------------------------- |
+	| L     | minecraft           | 1.12.2       | minecraft.jar                       | None                                     |
+	| L     | mcp                 | 9.42         | minecraft.jar                       | None                                     |
+	| L     | FML                 | 8.0.99.99    | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge               | 14.23.5.2854 | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | micdoodlecore       |              | minecraft.jar                       | None                                     |
+	| L     | galacticraftcore    | 4.0.2.220    | Galacticraft-Mod-1.12.2.jar         | None                                     |
+	| L     | galacticraftplanets | 4.0.2.220    | Galacticraft-Planets-Mod-1.12.2.jar | None                                     |
+	| L     | multibags           | 0.0.6        | MultiBags-Mod-1.12.2.jar            | None                                     |
+	| L     | betteranimalsplus   | 9.0.1        | betteranimalsplus-1.12.2-9.0.1.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

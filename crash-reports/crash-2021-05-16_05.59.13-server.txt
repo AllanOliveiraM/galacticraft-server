@@ -1,0 +1,84 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// I bet Cylons wouldn't have this problem.
+
+Time: 5/16/21 5:59 AM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 404 Drop: 136
+	Level seed: 5043396032119387825
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (252,63,155), Chunk: (at 12,3,11 in 15,9; contains blocks 240,0,144 to 255,255,159), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 2980604 game time, 3420442 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 49824 (now: false), thunder time: 102358 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_291, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 1635632 bytes (1 MB) / 259522560 bytes (247 MB) up to 259522560 bytes (247 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 9 mods loaded, 9 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                  | Version      | Source                              | Signature                                |
+	|:------ |:------------------- |:------------ |:----------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft           | 1.12.2       | minecraft.jar                       | None                                     |
+	| LCHIJA | mcp                 | 9.42         | minecraft.jar                       | None                                     |
+	| LCHIJA | FML                 | 8.0.99.99    | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge               | 14.23.5.2854 | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | micdoodlecore       |              | minecraft.jar                       | None                                     |
+	| LCHIJA | backpack            | 3.0.2        | backpack-3.0.2-1.12.2.jar           | None                                     |
+	| LCHIJA | galacticraftcore    | 4.0.2.220    | Galacticraft-Mod-1.12.2.jar         | None                                     |
+	| LCHIJA | galacticraftplanets | 4.0.2.220    | Galacticraft-Planets-Mod-1.12.2.jar | None                                     |
+	| LCHIJA | betteranimalsplus   | 9.0.1        | betteranimalsplus-1.12.2-9.0.1.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

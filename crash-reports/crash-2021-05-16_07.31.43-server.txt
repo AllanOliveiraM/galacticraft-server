@@ -1,0 +1,312 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// My bad.
+
+Time: 5/16/21 7:31 AM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.18 seconds (should be max 0.05)
+	at sun.nio.ch.WindowsSelectorImpl.wakeup(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.wakeup(SelectedSelectionKeySetSelector.java:73)
+	at io.netty.channel.nio.NioEventLoop.wakeup(NioEventLoop.java:687)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:753)
+	at net.minecraft.network.NetworkManager.func_150732_b(NetworkManager.java:236)
+	at net.minecraft.network.NetworkManager.func_179290_a(NetworkManager.java:168)
+	at net.minecraft.network.NetHandlerPlayServer.func_147359_a(NetHandlerPlayServer.java:882)
+	at net.minecraft.entity.EntityTrackerEntry.func_151259_a(EntityTrackerEntry.java:338)
+	at net.minecraft.entity.EntityTrackerEntry.func_73122_a(EntityTrackerEntry.java:270)
+	at net.minecraft.entity.EntityTracker.func_72788_a(EntityTracker.java:292)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:779)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at sun.nio.ch.WindowsSelectorImpl.wakeup(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.wakeup(SelectedSelectionKeySetSelector.java:73)
+	at io.netty.channel.nio.NioEventLoop.wakeup(NioEventLoop.java:687)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:753)
+	at net.minecraft.network.NetworkManager.func_150732_b(NetworkManager.java:236)
+	at net.minecraft.network.NetworkManager.func_179290_a(NetworkManager.java:168)
+	at net.minecraft.network.NetHandlerPlayServer.func_147359_a(NetHandlerPlayServer.java:882)
+	at net.minecraft.entity.EntityTrackerEntry.func_151259_a(EntityTrackerEntry.java:338)
+	at net.minecraft.entity.EntityTrackerEntry.func_73122_a(EntityTrackerEntry.java:270)
+	at net.minecraft.entity.EntityTracker.func_72788_a(EntityTracker.java:292)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:779)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+
+-- Thread Dump --
+Details:
+	Threads: "Chunk I/O Executor Thread-1" Id=47 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@18765ad8
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@18765ad8
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #3" Id=46 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@16b1b7a6
+	-  locked java.util.Collections$UnmodifiableSet@128e31a8
+	-  locked sun.nio.ch.WindowsSelectorImpl@578cbd9d
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"File IO Thread" Id=45 RUNNABLE
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:51)
+	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Watchdog" Id=39 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #2" Id=38 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@7d068d2e
+	-  locked java.util.Collections$UnmodifiableSet@669109af
+	-  locked sun.nio.ch.WindowsSelectorImpl@5f167a4
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"threadDeathWatcher-2-1" Id=37 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #1" Id=36 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@37a342d2
+	-  locked java.util.Collections$UnmodifiableSet@7e85c6f5
+	-  locked sun.nio.ch.WindowsSelectorImpl@103774fb
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"Netty Server IO #0" Id=35 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl.setWakeupSocket0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl.setWakeupSocket(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.wakeup(Unknown Source)
+	-  locked java.lang.Object@1ef5ed1e
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.wakeup(SelectedSelectionKeySetSelector.java:73)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:419)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"D3D Screen Updater" Id=28 RUNNABLE (in native)
+	at sun.java2d.d3d.D3DRenderQueue.flushBuffer(Native Method)
+	at sun.java2d.d3d.D3DRenderQueue.flushBuffer(Unknown Source)
+	at sun.java2d.d3d.D3DRenderQueue.flushNow(Unknown Source)
+	at sun.java2d.d3d.D3DSurfaceData.swapBuffers(Unknown Source)
+	at sun.java2d.d3d.D3DScreenUpdateManager.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@33ed99c0
+
+
+"Server console handler" Id=27 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@638f4326
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@48346300
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=26 RUNNABLE
+
+
+"Server thread" Id=24 BLOCKED on java.lang.Object@1ef5ed1e owned by "Netty Server IO #0" Id=35
+	at sun.nio.ch.WindowsSelectorImpl.wakeup(Unknown Source)
+	-  blocked on java.lang.Object@1ef5ed1e
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.wakeup(SelectedSelectionKeySetSelector.java:73)
+	at io.netty.channel.nio.NioEventLoop.wakeup(NioEventLoop.java:687)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:753)
+	at net.minecraft.network.NetworkManager.func_150732_b(NetworkManager.java:236)
+	at net.minecraft.network.NetworkManager.func_179290_a(NetworkManager.java:168)
+	at net.minecraft.network.NetHandlerPlayServer.func_147359_a(NetHandlerPlayServer.java:882)
+	at net.minecraft.entity.EntityTrackerEntry.func_151259_a(EntityTrackerEntry.java:338)
+	...
+
+
+"TimerQueue" Id=22 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@26e45f6f
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@26e45f6f
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.DelayQueue.take(Unknown Source)
+	at javax.swing.TimerQueue.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@7998fa05
+
+
+"Thread-3" Id=21 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3febaee6
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3febaee6
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+	at net.minecraft.server.gui.MinecraftServerGui$4.run(MinecraftServerGui.java:154)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"AWT-EventQueue-0" Id=20 WAITING on java.lang.Object@54ace678
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@54ace678
+	at java.lang.Object.wait(Unknown Source)
+	at sun.java2d.d3d.D3DScreenUpdateManager.runUpdateNow(Unknown Source)
+	at sun.java2d.d3d.D3DBlitLoops.IsoBlit(Unknown Source)
+	at sun.java2d.d3d.D3DRTTSurfaceToSurfaceBlit.Blit(Unknown Source)
+	at sun.java2d.pipe.DrawImage.blitSurfaceData(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageCopy(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	...
+
+
+"AWT-Windows" Id=18 RUNNABLE
+	at sun.awt.windows.WToolkit.eventLoop(Native Method)
+	at sun.awt.windows.WToolkit.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"AWT-Shutdown" Id=17 WAITING on java.lang.Object@6ada763a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@6ada763a
+	at java.lang.Object.wait(Unknown Source)
+	at sun.awt.AWTAutoShutdown.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Java2D Disposer" Id=16 WAITING on java.lang.ref.ReferenceQueue$Lock@6e414329
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@6e414329
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Infinisleeper" Id=15 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:82)
+
+
+"Snooper Timer" Id=14 TIMED_WAITING on java.util.TaskQueue@cbf5c99
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@cbf5c99
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@3f13f450
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@3f13f450
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6c12e2e
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6c12e2e
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:62)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_291, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 6128903728 bytes (5844 MB) / 6441926656 bytes (6143 MB) up to 6441926656 bytes (6143 MB)
+	JVM Flags: 2 total; -Xmx6144M -Xms6144M
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 9 mods loaded, 9 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                  | Version      | Source                              | Signature                                |
+	|:------ |:------------------- |:------------ |:----------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft           | 1.12.2       | minecraft.jar                       | None                                     |
+	| LCHIJA | mcp                 | 9.42         | minecraft.jar                       | None                                     |
+	| LCHIJA | FML                 | 8.0.99.99    | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge               | 14.23.5.2854 | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | micdoodlecore       |              | minecraft.jar                       | None                                     |
+	| LCHIJA | backpack            | 3.0.2        | backpack-3.0.2-1.12.2.jar           | None                                     |
+	| LCHIJA | galacticraftcore    | 4.0.2.220    | Galacticraft-Mod-1.12.2.jar         | None                                     |
+	| LCHIJA | galacticraftplanets | 4.0.2.220    | Galacticraft-Planets-Mod-1.12.2.jar | None                                     |
+	| LCHIJA | betteranimalsplus   | 9.0.1        | betteranimalsplus-1.12.2-9.0.1.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [GCEntityPlayerMP['Allan'/218, l='world', x=244.86, y=63.00, z=114.03], GCEntityPlayerMP['Ursinha'/353, l='world', x=174.42, y=80.00, z=41.13]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
