@@ -7702,3 +7702,69 @@
 [08:58:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [08:58:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [08:59:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:00:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:01:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:01:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:02:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:03:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ursinha moved wrongly!
+[09:03:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:04:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:04:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:05:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:06:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:07:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:08:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:09:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:11:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:12:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:13:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:13:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:14:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:15:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:16:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:16:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:16:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[09:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[09:17:02] [Server thread/TRACE] [FML]: Handshake channel activating
+[09:17:02] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[09:17:02] [Server thread/DEBUG] [FML]:   Next: HELLO
+[09:17:02] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[09:17:02] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[09:17:02] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[09:17:02] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
+[09:17:02] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[09:17:02] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[09:17:02] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[09:17:03] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[09:17:03] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[09:17:03] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[09:17:03] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[09:17:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[09:17:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.18.66:53182] logged in with entity id 464298 at (257.5345597992488, 77.0, 146.45431554460149)
+[09:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[09:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changing to clear weather
+[09:17:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:18:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:19:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:19:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:20:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:21:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:22:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:22:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:23:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:24:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:25:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:25:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:26:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:27:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:28:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /weather <clear|rain|thunder> [duration in seconds]
+[09:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changing to clear weather
+[09:28:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:29:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[09:29:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3938ms behind, skipping 78 tick(s)
+[09:30:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3483ms behind, skipping 69 tick(s)
+[09:30:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
