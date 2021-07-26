@@ -399,3 +399,60 @@
 [07:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [07:29:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Timed out
 [07:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[07:30:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2474ms behind, skipping 49 tick(s)
+[07:30:16] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:30:16] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2854,mcp@9.42,journeymap@1.12.2-5.7.0
+[07:30:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:30:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.18.42:49808] logged in with entity id 593995 at (266.11430700209917, 63.0, 118.63792659332792)
+[07:30:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
+[07:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 0
+[07:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[07:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 13000
+[07:51:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /time <set|add|query> <value>
+[07:56:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 192000
+[08:03:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2981ms behind, skipping 59 tick(s)
+[08:15:24] [Server thread/INFO] [Galacticraft]: Found matching world (0) for name: overworld
+[08:15:24] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Ursinha to dimension 0
+[08:15:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2492ms behind, skipping 49 tick(s)
+[08:16:16] [Netty Epoll Server IO #0/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[08:16:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
+[08:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[08:16:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Disconnected
+[08:16:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[08:17:43] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[08:17:43] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
+[08:17:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:17:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.18.66:59914] logged in with entity id 678938 at (223.104067210953, 1203.1771115229888, 154.40587339783167)
+[08:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[08:18:01] [Server thread/INFO] [Galacticraft]: Found matching world (0) for name: overworld
+[08:18:01] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension 0
+[08:18:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 0.0,-10.5,0.0
+[08:18:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2050ms behind, skipping 41 tick(s)
+[08:18:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 0.5854915282332342,-11.0,0.14663016827202568
+[08:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[08:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[08:24:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[08:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[08:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.asteroids
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.mars
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.venus
+[08:24:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.moon
+[08:24:57] [Server thread/INFO] [FML]: Unloading dimension 0
+[08:24:57] [Server thread/INFO] [FML]: Unloading dimension -30
+[08:24:57] [Server thread/INFO] [FML]: Unloading dimension -29
+[08:24:57] [Server thread/INFO] [FML]: Unloading dimension -31
+[08:24:57] [Server thread/INFO] [FML]: Unloading dimension -28
+[08:24:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[08:24:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[08:24:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[08:24:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[08:24:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[08:24:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[08:24:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
