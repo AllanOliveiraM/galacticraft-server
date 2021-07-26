@@ -751,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-07-26 03:51:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2021-04-09 04:18:59 -0300"
@@ -1365,6 +1371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-07-26 03:51:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-04-06 23:22:35 -0300"
@@ -1577,6 +1589,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-04-06 23:22:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-07-26 03:51:49 -0300"
     },
     "done": true
   },
@@ -1811,6 +1829,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-04-08 00:27:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-07-26 03:51:49 -0300"
     },
     "done": true
   },
