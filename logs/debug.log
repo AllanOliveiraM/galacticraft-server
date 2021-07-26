@@ -7439,3 +7439,389 @@
 [04:10:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [04:10:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:11:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[04:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[04:15:02] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:15:02] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:15:02] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:15:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:15:02] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:15:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[04:15:02] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
+[04:15:02] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[04:15:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:15:02] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[04:15:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:15:03] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[04:15:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:15:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:15:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:15:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.18.66:57150] logged in with entity id 297203 at (266.4328082676159, 67.0, 146.02729008164758)
+[04:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[04:15:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:21:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:24:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:25:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:26:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:27:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:28:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:28:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:29:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:39:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:40:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:40:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:41:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:42:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ursinha moved too quickly! -3.386047144581113,1.0,-9.394721761236468
+[04:42:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:43:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:43:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:44:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:45:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:49:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:49:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:50:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:52:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Enchanter]
+[04:58:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has made the advancement [Enchanter]
+[05:01:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:03:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:06:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:08:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:09:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[05:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[05:10:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:11:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:12:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:13:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:13:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:14:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[05:15:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:16:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:16:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:17:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:18:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:19:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:19:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[05:20:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:21:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:22:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:22:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:23:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:24:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:25:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:25:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:26:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:27:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Allan> \- máscara de oxigênio\- equipamento de oxigênio\- 5 tanques de oxigênio pesados\- armadura completa de diamante\- kit de ferramentas comuns completo\- 6 baterias carregadas\- 1 carregador de combustível no inventário\- 3 latas de combustível\- paraquedas\
+[05:28:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:28:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:29:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:32:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:33:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 12000
+[05:37:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 24000
+[05:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 10000
+[05:37:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:37:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[05:38:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:39:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:41:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:43:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:43:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:44:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:45:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:47:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:48:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:49:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:49:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:50:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:51:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:52:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 22000
+[05:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 23000
+[05:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 22500
+[05:52:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:53:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:54:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:40] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: moon.moon
+[05:54:40] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Ursinha to dimension -28
+[05:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has reached the goal [Galacticraft]
+[05:54:40] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: moon.moon
+[05:54:40] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -28
+[05:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has reached the goal [Galacticraft]
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [10, 7] in dimension -28 (moon.moon) while populating chunk [10, 8], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 7] in dimension -28 (moon.moon) while populating chunk [22, 8], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 10] in dimension -28 (moon.moon) while populating chunk [22, 9], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:45] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 9] in dimension -28 (moon.moon) while populating chunk [9, 9], causing cascading worldgen lag.
+[05:54:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:45] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [9, 8] in dimension -28 (moon.moon) while populating chunk [8, 9], causing cascading worldgen lag.
+[05:54:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 8] in dimension -28 (moon.moon) while populating chunk [8, 9], causing cascading worldgen lag.
+[05:54:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:47] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 10] in dimension -28 (moon.moon) while populating chunk [7, 9], causing cascading worldgen lag.
+[05:54:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5753ms behind, skipping 115 tick(s)
+[05:54:47] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 6] in dimension -28 (moon.moon) while populating chunk [7, 7], causing cascading worldgen lag.
+[05:54:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:55:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:55:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2042ms behind, skipping 40 tick(s)
+[05:55:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:56:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:57:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:58:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:58:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:59:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:00:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:01:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:01:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:02:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:03:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:04:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:04:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:05:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:06:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:07:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:07:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:08:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:09:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:10:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:11:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:12:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:13:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:13:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:14:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:15:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:16:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:16:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:17:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:18:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:19:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:19:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:20:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:21:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:22:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:22:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:23:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:24:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:25:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:26:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:27:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:28:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:28:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:29:16] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [29, 3] in dimension -28 (moon.moon) while populating chunk [29, 2], causing cascading worldgen lag.
+[06:29:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:29:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:30:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:31:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:31:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:32:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:33:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:34:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:34:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:35:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:36:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:37:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:38:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:39:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:41:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:42:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:43:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:43:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:44:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:45:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:47:00] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [21, 21] in dimension -28 (moon.moon) while populating chunk [20, 21], causing cascading worldgen lag.
+[06:47:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 22] in dimension -28 (moon.moon) while populating chunk [22, 23], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 20] in dimension -28 (moon.moon) while populating chunk [22, 21], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 19] in dimension -28 (moon.moon) while populating chunk [22, 21], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:48:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:50:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:51:10] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [30, 2] in dimension -28 (moon.moon) while populating chunk [30, 3], causing cascading worldgen lag.
+[06:51:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:10] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [30, 1] in dimension -28 (moon.moon) while populating chunk [30, 3], causing cascading worldgen lag.
+[06:51:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 3] in dimension -28 (moon.moon) while populating chunk [32, 1], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 2] in dimension -28 (moon.moon) while populating chunk [32, 1], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 5] in dimension -28 (moon.moon) while populating chunk [32, 6], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 4] in dimension -28 (moon.moon) while populating chunk [32, 6], causing cascading worldgen lag.
+[06:51:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:52:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:52:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [34, 18] in dimension -28 (moon.moon) while populating chunk [34, 19], causing cascading worldgen lag.
+[06:52:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:52:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:53:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:54:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:55:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:55:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:56:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:57:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:58:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:58:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:59:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:00:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:01:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:01:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:02:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[07:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[07:03:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:04:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[07:04:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[07:05:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:06:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:07:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:07:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:08:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:09:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [6, 32] in dimension -28 (moon.moon) while populating chunk [5, 32], causing cascading worldgen lag.
+[07:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 32] in dimension -28 (moon.moon) while populating chunk [6, 32], causing cascading worldgen lag.
+[07:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 34] in dimension -28 (moon.moon) while populating chunk [7, 34], causing cascading worldgen lag.
+[07:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [6, 35] in dimension -28 (moon.moon) while populating chunk [6, 34], causing cascading worldgen lag.
+[07:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:28] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [19, 34] in dimension -28 (moon.moon) while populating chunk [18, 34], causing cascading worldgen lag.
+[07:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:11:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:12:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:13:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:13:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:14:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:17:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:18:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:21:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:23:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:26:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:27:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:28:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:28:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:29:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Timed out
+[07:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[07:29:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

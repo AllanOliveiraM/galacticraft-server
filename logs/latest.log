@@ -289,3 +289,113 @@
 [04:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
 [04:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
 [04:10:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[04:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[04:15:02] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:15:02] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
+[04:15:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:15:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.18.66:57150] logged in with entity id 297203 at (266.4328082676159, 67.0, 146.02729008164758)
+[04:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[04:38:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:42:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Ursinha moved too quickly! -3.386047144581113,1.0,-9.394721761236468
+[04:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:50:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[04:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[04:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Enchanter]
+[05:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has made the advancement [Enchanter]
+[05:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[05:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[05:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[05:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[05:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Allan> \- máscara de oxigênio\- equipamento de oxigênio\- 5 tanques de oxigênio pesados\- armadura completa de diamante\- kit de ferramentas comuns completo\- 6 baterias carregadas\- 1 carregador de combustível no inventário\- 3 latas de combustível\- paraquedas\
+[05:36:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 12000
+[05:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 24000
+[05:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 10000
+[05:37:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[05:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:47:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 19000
+[05:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 20000
+[05:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 22000
+[05:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 23000
+[05:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 22500
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:30] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@79104efa)
+[05:54:40] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: moon.moon
+[05:54:40] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Ursinha to dimension -28
+[05:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has reached the goal [Galacticraft]
+[05:54:40] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: moon.moon
+[05:54:40] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -28
+[05:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has reached the goal [Galacticraft]
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [10, 7] in dimension -28 (moon.moon) while populating chunk [10, 8], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 7] in dimension -28 (moon.moon) while populating chunk [22, 8], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 10] in dimension -28 (moon.moon) while populating chunk [22, 9], causing cascading worldgen lag.
+[05:54:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:45] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 9] in dimension -28 (moon.moon) while populating chunk [9, 9], causing cascading worldgen lag.
+[05:54:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:45] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [9, 8] in dimension -28 (moon.moon) while populating chunk [8, 9], causing cascading worldgen lag.
+[05:54:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 8] in dimension -28 (moon.moon) while populating chunk [8, 9], causing cascading worldgen lag.
+[05:54:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:47] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 10] in dimension -28 (moon.moon) while populating chunk [7, 9], causing cascading worldgen lag.
+[05:54:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:54:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5753ms behind, skipping 115 tick(s)
+[05:54:47] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 6] in dimension -28 (moon.moon) while populating chunk [7, 7], causing cascading worldgen lag.
+[05:54:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:55:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2042ms behind, skipping 40 tick(s)
+[06:29:16] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [29, 3] in dimension -28 (moon.moon) while populating chunk [29, 2], causing cascading worldgen lag.
+[06:29:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:00] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [21, 21] in dimension -28 (moon.moon) while populating chunk [20, 21], causing cascading worldgen lag.
+[06:47:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 22] in dimension -28 (moon.moon) while populating chunk [22, 23], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 20] in dimension -28 (moon.moon) while populating chunk [22, 21], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:47:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [22, 19] in dimension -28 (moon.moon) while populating chunk [22, 21], causing cascading worldgen lag.
+[06:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:10] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [30, 2] in dimension -28 (moon.moon) while populating chunk [30, 3], causing cascading worldgen lag.
+[06:51:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:10] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [30, 1] in dimension -28 (moon.moon) while populating chunk [30, 3], causing cascading worldgen lag.
+[06:51:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 3] in dimension -28 (moon.moon) while populating chunk [32, 1], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 2] in dimension -28 (moon.moon) while populating chunk [32, 1], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:18] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 5] in dimension -28 (moon.moon) while populating chunk [32, 6], causing cascading worldgen lag.
+[06:51:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:51:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [32, 4] in dimension -28 (moon.moon) while populating chunk [32, 6], causing cascading worldgen lag.
+[06:51:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:52:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [34, 18] in dimension -28 (moon.moon) while populating chunk [34, 19], causing cascading worldgen lag.
+[06:52:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[07:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[07:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
+[07:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
+[07:10:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [6, 32] in dimension -28 (moon.moon) while populating chunk [5, 32], causing cascading worldgen lag.
+[07:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:13] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [7, 32] in dimension -28 (moon.moon) while populating chunk [6, 32], causing cascading worldgen lag.
+[07:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [8, 34] in dimension -28 (moon.moon) while populating chunk [7, 34], causing cascading worldgen lag.
+[07:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [6, 35] in dimension -28 (moon.moon) while populating chunk [6, 34], causing cascading worldgen lag.
+[07:10:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:28] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [19, 34] in dimension -28 (moon.moon) while populating chunk [18, 34], causing cascading worldgen lag.
+[07:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:29:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Timed out
+[07:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game

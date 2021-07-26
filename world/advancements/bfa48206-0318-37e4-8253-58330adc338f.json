@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "traveled_to_moon": "2021-07-26 05:54:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2021-04-09 02:03:29 -0300"
@@ -930,6 +936,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-08 00:15:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-07-26 04:58:32 -0300"
     },
     "done": true
   },
