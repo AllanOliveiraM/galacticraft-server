@@ -1,254 +1,65 @@
-[19:17:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:17:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:17:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:17:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[19:17:55] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_301, running on Linux:amd64:5.8.0-63-generic, installed at /usr/lib/jvm/jre1.8.0_301
-[19:17:55] [main/INFO] [FML]: Searching /home/allan/Documentos/Galactcraft Server/./mods for mods
-[19:17:55] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[19:17:55] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[19:17:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:17:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:17:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:17:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:17:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:17:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[19:17:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:17:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:17:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
-[19:17:57] [main/INFO] [FML]: Failed to find MicdoodleCore file in mods folder, skipping GC version check.
-[19:17:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[19:17:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[19:17:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:17:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:17:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:17:58] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[19:18:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[19:18:03] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[19:18:03] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[19:18:03] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[19:18:03] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[19:18:04] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/Galactcraft Server/./mods for mods
-[19:18:05] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
-[19:18:05] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
-[19:18:05] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[19:18:05] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
-[19:18:05] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, galacticraftcore, galacticraftplanets, multibags, zaraklib, betteranimalsplus] at CLIENT
-[19:18:05] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, galacticraftcore, galacticraftplanets, multibags, zaraklib, betteranimalsplus] at SERVER
-[19:18:06] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[19:18:06] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
-[19:18:06] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[19:18:06] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[19:18:07] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[19:18:07] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[19:18:12] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
-[19:18:13] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
-[19:18:13] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:13] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:13] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:13] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:14] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:14] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:14] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:14] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:14] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:18:14] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[19:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[19:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[19:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.18.66:25565
-[19:18:15] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[19:18:15] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:18:15] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[19:18:15] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:18:15] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:18:16] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:16] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[19:18:18] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[19:18:18] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:18:18] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:18:18] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[19:18:19] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
-[19:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[19:18:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[19:18:20] [Server thread/INFO] [FML]: Applying holder lookups
-[19:18:20] [Server thread/INFO] [FML]: Holder lookups applied
-[19:18:20] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[19:18:20] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:18:21] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 521 advancements
-[19:18:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:18:22] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:18:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[19:18:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[19:18:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
-[19:18:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[19:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7,652s)! For help, type "help" or "?"
-[19:18:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
-[19:18:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
-[19:18:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
-[19:18:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "reindeer" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[19:18:27] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[19:18:28] [Server thread/INFO] [FML]: Unloading dimension -1
-[19:18:28] [Server thread/INFO] [FML]: Unloading dimension 1
-[19:18:30] [Thread-7/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
-[19:18:34] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:18:34] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.220,FML@8.0.99.99,betteranimalsplus@9.0.1,baubles@1.5.2,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.220,micdoodlecore@,multibags@0.0.6,forge@14.23.5.2854,mcp@9.42,journeymap@1.12.2-5.7.0
-[19:18:34] [Server thread/ERROR] [Galacticraft]: Forge error when sending network packet to nearby players - this is not a Galacticraft bug, does another mod make fake players?
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: java.lang.RuntimeException: DISPATCHER expects a NetworkDispatcher
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$2.validateArgs(FMLOutboundHandler.java:92)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:367)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:704)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.DefaultChannelPipeline.write(DefaultChannelPipeline.java:1017)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.AbstractChannel.write(AbstractChannel.java:286)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at io.netty.channel.embedded.EmbeddedChannel.writeOutbound(EmbeddedChannel.java:341)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler.sendToAllAround(GalacticraftChannelHandler.java:97)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at micdoodle8.mods.galacticraft.core.tile.TileEntityAdvanced.func_73660_a(TileEntityAdvanced.java:74)
-[19:18:34] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at micdoodle8.mods.galacticraft.core.energy.tile.TileBaseUniversalElectrical.func_73660_a(TileBaseUniversalElectrical.java:256)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at micdoodle8.mods.galacticraft.core.energy.tile.TileBaseElectricBlock.func_73660_a(TileBaseElectricBlock.java:131)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at micdoodle8.mods.galacticraft.core.tile.TileEntityCircuitFabricator.func_73660_a(TileEntityCircuitFabricator.java:43)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.world.World.func_72939_s(World.java:1838)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-[19:18:35] [Server thread/INFO] [STDERR]: [micdoodle8.mods.galacticraft.core.network.GalacticraftChannelHandler:sendToAllAround:102]: 	at java.lang.Thread.run(Thread.java:748)
-[19:18:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:18:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.18.42:50069] logged in with entity id 245 at (259.9612545265984, 67.0, 139.27250803218436)
-[19:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
-[19:21:07] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:21:07] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:21:07] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:21:07] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@cd7d397)
-[19:21:13] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: moon.moon
-[19:21:13] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Ursinha to dimension -28
-[19:28:02] [Server thread/INFO] [Galacticraft]: Found matching world (0) for name: overworld
-[19:28:02] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Ursinha to dimension 0
-[19:32:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Disconnected
-[19:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
-[19:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.asteroids
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.mars
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.venus
-[19:32:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.moon
-[19:32:25] [Server thread/INFO] [FML]: Unloading dimension 0
-[19:32:25] [Server thread/INFO] [FML]: Unloading dimension -30
-[19:32:25] [Server thread/INFO] [FML]: Unloading dimension -29
-[19:32:25] [Server thread/INFO] [FML]: Unloading dimension -31
-[19:32:25] [Server thread/INFO] [FML]: Unloading dimension -28
-[19:32:25] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
-[19:32:25] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
-[19:32:25] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
-[19:32:25] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
-[19:32:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:32:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:32:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:11:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:11:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:11:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[20:11:42] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_301, running on Linux:amd64:5.11.0-34-generic, installed at /usr/lib/jvm/jre1.8.0_301
+[20:11:42] [main/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
+[20:11:42] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:11:42] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[20:11:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:11:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:11:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:11:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:11:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:11:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:11:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:11:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:11:44] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[20:11:44] [main/INFO] [FML]: Failed to find MicdoodleCore file in mods folder, skipping GC version check.
+[20:11:44] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[20:11:44] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[20:11:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:11:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:11:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:11:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:11:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[20:11:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:11:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:11:52] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:11:52] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
+[20:11:54] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
+[20:11:54] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[20:11:55] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:11:55] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
+[20:11:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, galacticraftcore, galacticraftplanets, multibags, zaraklib, betteranimalsplus] at CLIENT
+[20:11:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, galacticraftcore, galacticraftplanets, multibags, zaraklib, betteranimalsplus] at SERVER
+[20:11:57] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:11:57] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
+[20:11:57] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:11:57] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:11:58] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:11:58] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:12:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
+[20:12:05] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
+[20:12:05] [Server thread/INFO] [FML]: Applying holder lookups
+[20:12:05] [Server thread/INFO] [FML]: Holder lookups applied
+[20:12:05] [Server thread/INFO] [FML]: Applying holder lookups
+[20:12:05] [Server thread/INFO] [FML]: Holder lookups applied
+[20:12:06] [Server thread/INFO] [FML]: Applying holder lookups
+[20:12:06] [Server thread/INFO] [FML]: Holder lookups applied
+[20:12:06] [Server thread/INFO] [FML]: Applying holder lookups
+[20:12:06] [Server thread/INFO] [FML]: Holder lookups applied
+[20:12:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:12:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.18.66:25565
+[20:12:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:12:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[20:12:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Não foi possível acessar o endereço requisitado
+[20:12:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[20:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:12:07] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[20:12:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
