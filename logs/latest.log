@@ -192,3 +192,18 @@
 [03:59:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [03:59:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.100.8:49314] logged in with entity id 278 at (241.17460052701497, 63.0, 112.9422140748267)
 [03:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
+[04:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:01:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:01:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:01:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Server closed
+[04:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[04:01:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:01:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[04:01:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:01:10] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[04:01:10] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[04:01:10] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[04:01:10] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[04:01:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:01:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:01:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
