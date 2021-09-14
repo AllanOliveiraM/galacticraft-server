@@ -1,676 +1,108 @@
-[06:46:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:46:10] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[06:46:10] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_301, running on Linux:amd64:5.11.0-34-generic, installed at /usr/lib/jvm/jre1.8.0_301
-[06:46:10] [main/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
-[06:46:10] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:46:10] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[06:46:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:46:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:46:12] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[06:46:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:46:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:46:12] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
-[06:46:12] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[06:46:12] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[06:46:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:46:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:46:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:46:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[06:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[06:46:20] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[06:46:20] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[06:46:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[06:46:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[06:46:22] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
-[06:46:26] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
-[06:46:26] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
-[06:46:26] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[06:46:26] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[06:46:26] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
-[06:46:29] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at CLIENT
-[06:46:29] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at SERVER
-[06:46:35] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[06:46:35] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
-[06:46:35] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[06:46:35] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[06:46:35] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[06:46:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[06:46:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:46:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:00] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
-[06:47:02] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:02] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:02] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:02] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:03] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:04] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:04] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:04] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:04] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:47:04] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[06:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[06:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[06:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.100.9:25565
-[06:47:05] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[06:47:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:47:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[06:47:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:47:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:47:09] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[06:47:09] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:09] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[06:47:11] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[06:47:11] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:47:11] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:47:13] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[06:47:13] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[06:47:14] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[06:47:15] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
-[06:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[06:47:15] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod galacticraftcore version 4.0.2.220 and it is now at version 4.0.2.280, things may not work well
-[06:47:15] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod galacticraftplanets version 4.0.2.220 and it is now at version 4.0.2.280, things may not work well
-[06:47:15] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_spawner Expected: 360 Got: 406
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b Expected: 392 Got: 407
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn Expected: 372 Got: 408
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:orange_sand Expected: 370 Got: 410
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:io Expected: 404 Got: 411
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:dense_ice Expected: 379 Got: 412
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:jupiter_spawner Expected: 366 Got: 414
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:red_sandstone Expected: 401 Got: 415
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: galacticraftplanets:laser_turret Expected: 357 Got: 416
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_gravel Expected: 359 Got: 417
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:orange_sandstone Expected: 371 Got: 418
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:io_gravel Expected: 405 Got: 419
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:phobos Expected: 408 Got: 420
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:volcanic_rock Expected: 368 Got: 421
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune_spawner Expected: 381 Got: 423
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:eris_gravel Expected: 391 Got: 424
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: galacticraftcore:machine4 Expected: 296 Got: 425
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_spawner Expected: 374 Got: 426
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_infected_grass Expected: 398 Got: 429
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:rhea Expected: 416 Got: 430
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:eris_spawner Expected: 389 Got: 431
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:europa_gravel Expected: 403 Got: 432
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:jupiter Expected: 364 Got: 433
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:oberon_gravel Expected: 421 Got: 434
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:triton Expected: 410 Got: 436
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ganymede Expected: 414 Got: 439
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_purple_grass Expected: 395 Got: 441
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:rhea_gravel Expected: 417 Got: 442
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:fossil Expected: 426 Got: 444
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ash_rock Expected: 369 Got: 446
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_gravel Expected: 373 Got: 447
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:callisto Expected: 412 Got: 448
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:potash Expected: 430 Got: 449
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:white_sugar_cane Expected: 439 Got: 450
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:uranus Expected: 376 Got: 452
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:uranus_spawner Expected: 377 Got: 453
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t9 Expected: 386 Got: 455
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t7 Expected: 378 Got: 457
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t8 Expected: 382 Got: 458
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t5 Expected: 367 Got: 459
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t6 Expected: 375 Got: 460
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:iapetus Expected: 424 Got: 461
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t4 Expected: 361 Got: 462
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_sub_surface Expected: 447 Got: 463
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:advanced_launch_pad Expected: 431 Got: 466
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:decorative_blocks Expected: 434 Got: 467
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:europa Expected: 402 Got: 468
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_sub_surface Expected: 459 Got: 469
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_yellow_grass Expected: 397 Got: 470
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:jupiter_stairs_stone_bricks Expected: 457 Got: 473
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:gold_grit Expected: 442 Got: 474
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:oberon Expected: 420 Got: 476
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:deimos Expected: 406 Got: 478
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:titan Expected: 418 Got: 479
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_blue_grass Expected: 394 Got: 490
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t10 Expected: 390 Got: 491
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:diamond_grit Expected: 441 Got: 493
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_stone Expected: 448 Got: 494
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_stone_bricks Expected: 469 Got: 495
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_flowers Expected: 399 Got: 498
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:titan_gravel Expected: 419 Got: 499
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_surface Expected: 450 Got: 507
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:vehicle_charger Expected: 499 Got: 510
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_sub_surface Expected: 467 Got: 511
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_stone_bricks Expected: 449 Got: 513
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:uranus_stairs_sub_surface Expected: 463 Got: 514
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_solar_evaporation_chamber Expected: 493 Got: 515
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:candy_blocks Expected: 436 Got: 516
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:pluto_gravel Expected: 387 Got: 517
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:triton_gravel Expected: 411 Got: 518
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_surface Expected: 458 Got: 519
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:titania_gravel Expected: 423 Got: 520
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:iapetus_gravel Expected: 425 Got: 521
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ore_lead Expected: 429 Got: 522
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_surface Expected: 446 Got: 523
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_stone Expected: 468 Got: 524
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:advanced_launch_pad_full Expected: 432 Got: 525
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:pluto Expected: 384 Got: 526
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_maple_logs Expected: 478 Got: 527
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:infected_water Expected: 507 Got: 528
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_grass Expected: 393 Got: 529
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:pluto_stairs_stone_bricks Expected: 473 Got: 530
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:mercury Expected: 358 Got: 531
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:jupiter_stairs_sub_surface Expected: 455 Got: 532
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:red_sand Expected: 400 Got: 533
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ceres Expected: 362 Got: 534
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:frozen_nitrogen Expected: 383 Got: 535
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_stone_bricks Expected: 461 Got: 536
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_stone Expected: 460 Got: 537
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:uranus_stairs_surface Expected: 462 Got: 538
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_densifier Expected: 498 Got: 539
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_stone Expected: 452 Got: 540
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_purifier Expected: 494 Got: 541
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:eris_stairs_stone Expected: 476 Got: 542
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:liquid_chocolate Expected: 511 Got: 543
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:block_multi Expected: 433 Got: 544
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:deimos_gravel Expected: 407 Got: 545
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:liquid_hydrocarbon Expected: 510 Got: 546
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:jupiter_gravel Expected: 365 Got: 547
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_stone_bricks Expected: 453 Got: 548
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune Expected: 380 Got: 549
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:iron_grit Expected: 444 Got: 550
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ceres_gravel Expected: 363 Got: 551
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_crystallizer Expected: 490 Got: 552
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:eris_stairs_surface Expected: 474 Got: 553
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:pluto_stairs_surface Expected: 470 Got: 554
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:ganymede_gravel Expected: 415 Got: 555
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_red_grass Expected: 396 Got: 556
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:pluto_spawner Expected: 385 Got: 557
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:kepler22b_maple_logs2 Expected: 479 Got: 558
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_smasher Expected: 491 Got: 559
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_surface Expected: 466 Got: 560
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:basic_decontamination_unit Expected: 495 Got: 561
-[06:47:16] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: extraplanets:eris Expected: 388 Got: 562
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:titania Expected: 4361 Got: 4097
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:orange_sand Expected: 4309 Got: 4098
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:io Expected: 4343 Got: 4099
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_sandstone Expected: 4340 Got: 4100
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:emerald_grit Expected: 4384 Got: 4101
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:orange_sandstone Expected: 4310 Got: 4102
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_gravel Expected: 4330 Got: 4393
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:rhea Expected: 4355 Got: 4394
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ash_rock Expected: 4308 Got: 4396
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_gravel Expected: 4312 Got: 4397
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_yellow_grass Expected: 4336 Got: 4398
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:gold_grit Expected: 4381 Got: 4399
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oberon Expected: 4359 Got: 4400
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:deimos Expected: 4345 Got: 4401
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_blue_grass Expected: 4333 Got: 4402
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:diamond_grit Expected: 4380 Got: 4403
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:iapetus_gravel Expected: 4364 Got: 4405
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter_stairs_sub_surface Expected: 4394 Got: 4406
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:deimos_gravel Expected: 4346 Got: 4408
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ganymede_gravel Expected: 4354 Got: 4409
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto_spawner Expected: 4324 Got: 4411
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_surface Expected: 4405 Got: 4412
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b Expected: 4331 Got: 4413
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn Expected: 4311 Got: 4414
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:dense_ice Expected: 4318 Got: 4415
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: galacticraftplanets:laser_turret Expected: 4291 Got: 4416
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_gravel Expected: 4298 Got: 4417
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:io_gravel Expected: 4344 Got: 4418
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:phobos Expected: 4347 Got: 4419
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:fire_bomb Expected: 4367 Got: 4420
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:cake_blocks Expected: 4377 Got: 4422
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:neptune_spawner Expected: 4320 Got: 4424
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_new_maple_leaves Expected: 4420 Got: 4425
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_stairs_stone_bricks Expected: 4416 Got: 4426
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter Expected: 4303 Got: 4428
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:rhea_gravel Expected: 4356 Got: 4429
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter_stairs_surface Expected: 4393 Got: 4430
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:potash Expected: 4369 Got: 4433
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:white_sugar_cane Expected: 4378 Got: 4434
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranus Expected: 4315 Got: 4436
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranus_spawner Expected: 4316 Got: 4438
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t9 Expected: 4325 Got: 4439
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t7 Expected: 4317 Got: 4440
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t8 Expected: 4321 Got: 4441
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t5 Expected: 4306 Got: 4443
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t6 Expected: 4314 Got: 4444
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t4 Expected: 4300 Got: 4446
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_sub_surface Expected: 4386 Got: 4447
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:decorative_blocks Expected: 4373 Got: 4448
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:titan_gravel Expected: 4358 Got: 4449
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_surface Expected: 4389 Got: 4450
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:vehicle_charger Expected: 4438 Got: 4452
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:candy_blocks Expected: 4375 Got: 4453
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ore_lead Expected: 4368 Got: 4455
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:infected_water Expected: 4446 Got: 4457
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto_stairs_stone_bricks Expected: 4412 Got: 4458
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_axe Expected: 4458 Got: 4459
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_stone_bricks Expected: 4400 Got: 4460
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_stone Expected: 4391 Got: 4461
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_purifier Expected: 4433 Got: 4464
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:liquid_chocolate Expected: 4450 Got: 4466
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter_gravel Expected: 4304 Got: 4470
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_stairs_surface Expected: 4413 Got: 4471
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto_stairs_surface Expected: 4409 Got: 4475
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_decontamination_unit Expected: 4434 Got: 4478
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_spawner Expected: 4299 Got: 4479
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:callisto_gravel Expected: 4352 Got: 4481
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:glowstone Expected: 4439 Got: 4482
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_sub_surface Expected: 4390 Got: 4483
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_stairs_sub_surface Expected: 4414 Got: 4484
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:crystal_axe Expected: 4483 Got: 4486
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:nuclear_bomb Expected: 4366 Got: 4491
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:coal_grit Expected: 4382 Got: 4492
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_spawner Expected: 4313 Got: 4495
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_spawner Expected: 4328 Got: 4497
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:europa_gravel Expected: 4342 Got: 4499
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:magnesium_sword Expected: 4481 Got: 4500
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranus_stairs_stone Expected: 4403 Got: 4501
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:decorative_blocks2 Expected: 4374 Got: 4502
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranium_hoe Expected: 4464 Got: 4504
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:triton Expected: 4349 Got: 4505
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto_stairs_stone Expected: 4411 Got: 4506
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_sword Expected: 4461 Got: 4507
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_purple_grass Expected: 4334 Got: 4508
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:fossil Expected: 4365 Got: 4511
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:methane Expected: 4447 Got: 4513
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:callisto Expected: 4351 Got: 4514
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:magnesium_hoe Expected: 4479 Got: 4517
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:solar Expected: 4425 Got: 4519
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_maple_saplings Expected: 4419 Got: 4520
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_shovel Expected: 4455 Got: 4529
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:advanced_launch_pad Expected: 4370 Got: 4530
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:zinc_sword Expected: 4501 Got: 4531
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:europa Expected: 4341 Got: 4532
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_sub_surface Expected: 4398 Got: 4534
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:treasure_chest_t10 Expected: 4329 Got: 4539
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_stone Expected: 4387 Got: 4543
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_stone_bricks Expected: 4408 Got: 4545
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_flowers Expected: 4338 Got: 4547
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:purple_diamond_pickaxe Expected: 4517 Got: 4549
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_stone_bricks Expected: 4388 Got: 4550
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranus_stairs_sub_surface Expected: 4402 Got: 4557
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:crystal_pickaxe Expected: 4482 Got: 4561
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto_gravel Expected: 4326 Got: 4562
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:triton_gravel Expected: 4350 Got: 4563
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_gem_chest Expected: 4549 Got: 4567
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_stairs_surface Expected: 4385 Got: 4568
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:pluto Expected: 4323 Got: 4572
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranium_sword Expected: 4466 Got: 4573
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_grass Expected: 4332 Got: 4577
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_shovel Expected: 4460 Got: 4580
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:purple_diamond_hoe Expected: 4519 Got: 4582
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_sand Expected: 4339 Got: 4585
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres Expected: 4301 Got: 4594
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:frozen_nitrogen Expected: 4322 Got: 4595
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:green_diamond_sword Expected: 4531 Got: 4597
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_diamond_axe Expected: 4513 Got: 4604
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:liquid_hydrocarbon Expected: 4449 Got: 4605
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres_stairs_stone_bricks Expected: 4392 Got: 4606
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:neptune Expected: 4319 Got: 4609
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ceres_gravel Expected: 4302 Got: 4612
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_crystallizer Expected: 4429 Got: 4613
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_red_grass Expected: 4335 Got: 4620
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris Expected: 4327 Got: 4622
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_pickaxe Expected: 4452 Got: 4623
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_pickaxe Expected: 4457 Got: 4625
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:compressed_mercury Expected: 4625 Got: 4637
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_hoe Expected: 4459 Got: 4639
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_diamond_chest Expected: 4577 Got: 4643
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_diamond_legings Expected: 4582 Got: 4644
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier3_space_suit_chest Expected: 4613 Got: 4648
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:t5key Expected: 4637 Got: 4660
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:phobos_gravel Expected: 4348 Got: 4670
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:candy_blocks_horizontal Expected: 4376 Got: 4673
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:green_diamond_shovel Expected: 4530 Got: 4676
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_hoe Expected: 4504 Got: 4681
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_planks Expected: 4422 Got: 4683
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier4_space_suit_jetpack_chest Expected: 4620 Got: 4687
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter_spawner Expected: 4305 Got: 4691
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier4_space_suit_gravity_boots Expected: 4623 Got: 4693
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:advanced_oxygen_compressor Expected: 4426 Got: 4698
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier1_un_prepared_space_suit_boots Expected: 4693 Got: 4707
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:magnesium_axe Expected: 4478 Got: 4712
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:volcanic_rock Expected: 4307 Got: 4719
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:carbon_boots Expected: 4539 Got: 4721
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_gem_legings Expected: 4550 Got: 4724
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:nitrogen Expected: 4441 Got: 4725
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier2_space_suit_legings Expected: 4609 Got: 4732
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier3_thermal_padding Expected: 4670 Got: 4736
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ultimate_fuel_loader Expected: 4436 Got: 4743
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:salt Expected: 4443 Got: 4745
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:radioactive_water Expected: 4444 Got: 4747
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:palladium_boots Expected: 4547 Got: 4749
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:green_diamond_legings Expected: 4594 Got: 4765
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:green_diamond_boots Expected: 4595 Got: 4769
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier3_un_prepared_space_suit_helmet Expected: 4698 Got: 4779
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: galacticraftcore:machine4 Expected: 4149 Got: 4780
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_decontamination_unit_fake_block Expected: 4379 Got: 4781
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_gem_shovel Expected: 4495 Got: 4782
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_infected_grass Expected: 4337 Got: 4783
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:wafer Expected: 4719 Got: 4784
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier1_space_suit_gravity_boots Expected: 4605 Got: 4785
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ultimate_refinery Expected: 4424 Got: 4786
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oberon_gravel Expected: 4360 Got: 4787
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier2_space_suit_helmet Expected: 4606 Got: 4788
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_light_full_pink Expected: 4743 Got: 4789
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:zinc_boots Expected: 4567 Got: 4790
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_diamond_helmet Expected: 4580 Got: 4791
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:advanced_battery Expected: 4673 Got: 4792
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier1_space_suit_boots Expected: 4604 Got: 4793
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier4_pressure_layer Expected: 4681 Got: 4794
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_axe Expected: 4453 Got: 4795
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_med_full_black Expected: 4749 Got: 4796
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:ganymede Expected: 4353 Got: 4797
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_legings Expected: 4534 Got: 4798
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:white_gem_boots Expected: 4563 Got: 4799
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:zinc_shovel Expected: 4500 Got: 4800
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_diamond_sword Expected: 4511 Got: 4801
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:magma Expected: 4440 Got: 4802
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_decrystallizer Expected: 4428 Got: 4803
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:t6key Expected: 4643 Got: 4804
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:crystal_hoe Expected: 4484 Got: 4805
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier2_kit Expected: 4725 Got: 4806
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_helmet Expected: 4572 Got: 4807
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:palladium_shovel Expected: 4470 Got: 4808
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranium_boots Expected: 4543 Got: 4809
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_shovel Expected: 4505 Got: 4810
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:anti_radiation Expected: 4712 Got: 4811
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:nitrogen_ice Expected: 4448 Got: 4812
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier1_kit Expected: 4724 Got: 4813
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:white_gem_chest Expected: 4561 Got: 4814
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:iapetus Expected: 4363 Got: 4815
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:zinc_hoe Expected: 4499 Got: 4816
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:white_gem_sword Expected: 4491 Got: 4817
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:white_gem_legings Expected: 4562 Got: 4818
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:jupiter_stairs_stone_bricks Expected: 4396 Got: 4819
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_pickaxe Expected: 4502 Got: 4820
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:titan Expected: 4357 Got: 4821
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:item_tier7_rocket Expected: 4644 Got: 4822
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:module_items Expected: 4707 Got: 4823
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:green_diamond_hoe Expected: 4529 Got: 4824
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier2_armor_layer Expected: 4687 Got: 4825
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_sword Expected: 4506 Got: 4826
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier2_radiation_layer Expected: 4683 Got: 4827
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_heavy_full_lime Expected: 4765 Got: 4828
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier3_space_suit_helmet Expected: 4612 Got: 4829
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:item_tier6_rocket Expected: 4639 Got: 4830
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_light_full_light_blue Expected: 4745 Got: 4831
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_light_full_orange Expected: 4747 Got: 4832
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:neptune_stairs_sub_surface Expected: 4406 Got: 4833
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_diamond_axe Expected: 4508 Got: 4834
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_surface Expected: 4397 Got: 4835
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_very_heavy_full Expected: 4676 Got: 4836
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:titania_gravel Expected: 4362 Got: 4837
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier0_space_suit_chest Expected: 4597 Got: 4838
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier4_space_suit_boots Expected: 4622 Got: 4839
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tungsten_chest Expected: 4573 Got: 4840
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:chocolate_bar Expected: 4732 Got: 4841
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:purple_diamond_chest Expected: 4585 Got: 4842
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:advanced_launch_pad_full Expected: 4371 Got: 4843
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_maple_logs Expected: 4417 Got: 4844
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:item_tier10_rocket Expected: 4660 Got: 4845
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_gem_pickaxe Expected: 4492 Got: 4846
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury Expected: 4297 Got: 4847
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_light_full_green Expected: 4736 Got: 4848
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:oxygen_tank_heavy_full_purple Expected: 4769 Got: 4849
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:crystal_sword Expected: 4486 Got: 4850
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_diamond_hoe Expected: 4514 Got: 4851
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:saturn_stairs_stone Expected: 4399 Got: 4852
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:mercury_helmet Expected: 4532 Got: 4853
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:uranus_stairs_surface Expected: 4401 Got: 4854
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_diamond_pickaxe Expected: 4507 Got: 4855
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:purple_diamond_shovel Expected: 4520 Got: 4856
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:eris_stairs_stone Expected: 4415 Got: 4857
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:block_multi Expected: 4372 Got: 4858
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:palladium_sword Expected: 4471 Got: 4859
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:cloth Expected: 4721 Got: 4860
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:blue_gem_helmet Expected: 4568 Got: 4861
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:iron_grit Expected: 4383 Got: 4862
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:tier1_un_prepared_space_suit_chest Expected: 4691 Got: 4863
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:t7key Expected: 4648 Got: 4864
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:red_gem_shovel Expected: 4475 Got: 4865
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:kepler22b_maple_logs2 Expected: 4418 Got: 4866
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:palladium_chest Expected: 4545 Got: 4867
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:basic_smasher Expected: 4430 Got: 4868
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:crystal_chest Expected: 4557 Got: 4869
-[06:47:16] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: extraplanets:zinc_pickaxe Expected: 4497 Got: 4870
-[06:47:18] [Server thread/INFO] [FML]: Applying holder lookups
-[06:47:18] [Server thread/INFO] [FML]: Holder lookups applied
-[06:47:20] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@202c8d02)
-[06:47:22] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 545 advancements
-[06:47:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@202c8d02)
-[06:47:23] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@202c8d02)
-[06:47:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[06:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[06:47:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
-[06:47:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
-[06:47:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[06:47:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
-[06:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (18,020s)! For help, type "help" or "?"
-[06:47:35] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -17
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1505
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1503
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1501
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1506
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1511
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1500
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1509
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1502
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1507
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1508
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1510
-[06:47:36] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1504
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "reindeer" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[06:47:36] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[06:47:38] [Thread-6/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
-[06:47:38] [Server thread/INFO] [FML]: Unloading dimension -1
-[06:47:38] [Server thread/INFO] [FML]: Unloading dimension 1
-[06:47:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
-[06:48:17] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[06:48:17] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[06:48:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:48:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.9:34224] logged in with entity id 266 at (265.1439617890434, 67.0, 145.86868066813255)
-[06:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[06:48:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2667ms behind, skipping 53 tick(s)
-[06:48:31] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[06:48:31] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2854,mcp@9.42,journeymap@1.12.2-5.7.0
-[06:48:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:48:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.100.8:49676] logged in with entity id 272 at (267.14307847230475, 67.0, 141.10593010055453)
-[06:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
-[06:48:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4313ms behind, skipping 86 tick(s)
-[06:49:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2194ms behind, skipping 43 tick(s)
-[06:49:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2288ms behind, skipping 45 tick(s)
-[06:52:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6652ms behind, skipping 133 tick(s)
-[06:52:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
-[06:53:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 9.155799969149655,0.12129684053920187,4.147674272161254
-[06:53:05] [Netty Epoll Server IO #4/ERROR] [FML]: NetworkDispatcher exception
-io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
-[06:53:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-[06:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[06:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[06:53:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[06:53:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[06:53:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[06:53:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[06:53:14] [Server thread/INFO] [FML]: Unloading dimension 0
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
-[06:53:14] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
-[06:53:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[06:53:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[06:53:14] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Server closed
-[06:53:14] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
+[18:54:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:54:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[18:54:26] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_301, running on Linux:amd64:5.11.0-34-generic, installed at /usr/lib/jvm/jre1.8.0_301
+[18:54:26] [main/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
+[18:54:26] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:54:26] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[18:54:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:54:28] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:54:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:54:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:54:28] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[18:54:28] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[18:54:28] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[18:54:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:54:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:54:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:54:30] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:54:38] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[18:54:38] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:54:39] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:54:39] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:54:41] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/Minecraft/Galactcraft Server/./mods for mods
+[18:54:45] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
+[18:54:45] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
+[18:54:45] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:54:46] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[18:54:46] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
+[18:54:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at CLIENT
+[18:54:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at SERVER
+[18:54:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:54:51] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
+[18:54:52] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:54:52] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:54:52] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:54:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:55:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:55:53] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
+[18:55:57] [Server thread/INFO] [FML]: Applying holder lookups
+[18:55:57] [Server thread/INFO] [FML]: Holder lookups applied
+[18:55:57] [Server thread/INFO] [FML]: Applying holder lookups
+[18:55:57] [Server thread/INFO] [FML]: Holder lookups applied
+[18:55:59] [Server thread/INFO] [FML]: Applying holder lookups
+[18:55:59] [Server thread/INFO] [FML]: Holder lookups applied
+[18:55:59] [Server thread/INFO] [FML]: Applying holder lookups
+[18:55:59] [Server thread/INFO] [FML]: Holder lookups applied
+[18:55:59] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:55:59] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.100.9:25565
+[18:56:01] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:56:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[18:56:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Não foi possível acessar o endereço requisitado
+[18:56:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[18:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:56:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:56:01] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[18:56:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:56:01] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
