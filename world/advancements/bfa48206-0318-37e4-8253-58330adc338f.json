@@ -472,7 +472,7 @@
   },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
-      "traveled_to_moon": "2021-07-26 05:54:40 -0300"
+      "tick": "2021-09-14 06:48:19 -0300"
     },
     "done": true
   },
