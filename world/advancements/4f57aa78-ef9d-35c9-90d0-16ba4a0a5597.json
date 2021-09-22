@@ -382,6 +382,12 @@
     },
     "done": false
   },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2021-09-14 20:16:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-04-06 23:15:34 -0300"
@@ -930,6 +936,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2021-07-26 05:01:25 -0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2021-09-14 21:06:54 -0300"
     },
     "done": true
   },
@@ -1631,6 +1643,12 @@
   "betteranimalsplus:root": {
     "criteria": {
       "tick": "2021-04-06 21:28:21 -0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2021-09-14 20:16:59 -0300"
     },
     "done": true
   },
