@@ -1,496 +1,467 @@
-[20:33:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:33:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:33:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:33:32] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[20:33:32] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:5.11.0-37-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[20:33:33] [main/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
-[20:33:33] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:33:33] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[20:33:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:33:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:33:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:33:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:33:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:33:34] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[20:33:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:33:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:33:34] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
-[20:33:34] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[20:33:34] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[20:33:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:33:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:33:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:33:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[20:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[20:33:37] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[20:33:37] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[20:33:37] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[20:33:37] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[20:33:37] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
-[20:33:39] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
-[20:33:39] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
-[20:33:39] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[20:33:39] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[20:33:39] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
-[20:33:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at CLIENT
-[20:33:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at SERVER
-[20:33:40] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[20:33:40] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
-[20:33:40] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[20:33:40] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[20:33:40] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[20:33:40] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:48] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
-[20:33:48] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:48] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:49] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:49] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:49] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:49] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:49] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:49] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:49] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:33:49] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.100.34:25565
-[20:33:49] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[20:33:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:33:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[20:33:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:33:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:33:51] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[20:33:51] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:51] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[20:33:52] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[20:33:52] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:33:52] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:33:52] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[20:33:52] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[20:33:53] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[20:33:53] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
-[20:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[20:33:53] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[20:33:54] [Server thread/INFO] [FML]: Applying holder lookups
-[20:33:54] [Server thread/INFO] [FML]: Holder lookups applied
-[20:33:54] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3dd0e22a)
-[20:33:55] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 545 advancements
-[20:33:55] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3dd0e22a)
-[20:33:55] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3dd0e22a)
-[20:33:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[20:33:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
-[20:33:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 62%
-[20:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3,770s)! For help, type "help" or "?"
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -17
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1505
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1503
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1501
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1506
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1511
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1500
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1509
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1502
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1507
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1508
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1510
-[20:33:57] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1504
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "reindeer" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
-[20:33:57] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
-[20:33:58] [Server thread/INFO] [FML]: Unloading dimension -1
-[20:33:58] [Server thread/INFO] [FML]: Unloading dimension 1
-[20:33:59] [Thread-7/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
-[20:36:53] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[20:36:53] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[20:36:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:36:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39702] logged in with entity id 251 at (266.73003475837004, 67.0, 138.3517803512203)
-[20:36:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[20:37:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[20:37:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[20:37:41] [Netty Epoll Server IO #8/INFO] [FML]: Client protocol version 2
-[20:37:41] [Netty Epoll Server IO #8/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[20:37:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:37:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.100.30:44368] logged in with entity id 560 at (236.5, 67.0, 111.5)
-[20:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
-[20:37:48] [Netty Epoll Server IO #9/INFO] [FML]: Client protocol version 2
-[20:37:48] [Netty Epoll Server IO #9/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[20:37:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:37:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39712] logged in with entity id 883 at (266.73003475837004, 67.0, 138.3517803512203)
-[20:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[20:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[20:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has reached the goal [All set]
-[20:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Air 2 Go]
-[20:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has reached the goal [All set]
-[20:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has made the advancement [Air 2 Go]
-[20:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
-[20:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[20:48:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
-[20:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[20:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
-[20:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[20:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
-[20:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[20:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Creative Mode
-[20:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Ursinha's game mode to Creative Mode
-[21:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has made the advancement [Bring Home the Beacon]
-[21:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Bring Home the Beacon]
-[21:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha has reached the goal [Beaconator]
-[21:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has reached the goal [Beaconator]
-[21:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Ursinha's game mode to Survival Mode
-[21:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Allan's game mode to Survival Mode
-[21:48:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Disconnected
-[21:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
-[21:48:02] [Netty Epoll Server IO #11/INFO] [FML]: Client protocol version 2
-[21:48:02] [Netty Epoll Server IO #11/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[21:48:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:48:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ursinha[/192.168.100.30:44438] logged in with entity id 122610 at (419.26534489012136, 9.0, 62.8047230045059)
-[21:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha joined the game
-[21:48:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[21:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[21:48:58] [Netty Epoll Server IO #13/INFO] [FML]: Client protocol version 2
-[21:48:58] [Netty Epoll Server IO #13/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[21:48:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:48:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39882] logged in with entity id 123467 at (331.69999998807907, 3.0, 79.6859344347456)
-[21:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[21:50:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:51:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:51:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[21:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[21:51:45] [Netty Epoll Server IO #15/INFO] [FML]: Client protocol version 2
-[21:51:45] [Netty Epoll Server IO #15/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[21:51:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:51:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39898] logged in with entity id 128460 at (363.59919970260546, 3.0, 88.34494786879782)
-[21:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[21:51:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:52:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[21:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[21:52:21] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[21:52:21] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[21:52:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:52:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39902] logged in with entity id 129625 at (380.7467512117423, 4.0, 95.69999998807907)
-[21:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[21:52:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:52:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[22:01:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[22:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[22:01:30] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:01:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.15.0.285,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2855,mcp@9.42,journeymap@1.12.2-5.7.0
-[22:01:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:01:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.100.34:39978] logged in with entity id 150055 at (245.69999998807907, 9.0, 42.601484825485954)
-[22:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 12 (/help <page>) ---
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /advancement <grant|revoke|test> <player>
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban <name> [reason ...]
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban-ip <address|name> [reason ...]
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /banlist [ips|players]
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /baubles <action> [<player> [<params>]]
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /blockdata <x> <y> <z> <dataTag>
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clear [player] [item] [data] [maxCount] [dataTag]
-[22:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[22:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 12 (/help <page>) ---
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /advancement <grant|revoke|test> <player>
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban <name> [reason ...]
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban-ip <address|name> [reason ...]
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /banlist [ips|players]
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /baubles <action> [<player> [<params>]]
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /blockdata <x> <y> <z> <dataTag>
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clear [player] [item] [data] [maxCount] [dataTag]
-[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 2 of 12 (/help <page>) ---
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /debug <start|stop>
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /defaultgamemode <mode>
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /deop <player>
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /difficulty <new difficulty>
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /dimensiontp [<player>]
-[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
-[22:06:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Allan
-[22:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
-[22:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
-[22:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
-[22:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
-[22:06:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Saved the world]
-[22:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] oiii
-[22:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan] EU TE AMO
-[22:09:59] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:lightthunder
-[22:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Object successfully summoned]
-[22:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan burned to death
-[22:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to Ursinha]
-[22:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Object successfully summoned]
-[22:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.cat.hiss' to Allan]
-[22:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.cat.hiss' to Ursinha]
-[22:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'minecraft:record.13' to Allan]
-[22:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'minecraft:record.13' to Ursinha]
-[22:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Allan]
-[22:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Ursinha]
-[22:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.endermen.stare' to Allan]
-[22:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.endermen.stare' to Ursinha]
-[22:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Allan]
-[22:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Ursinha]
-[22:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'ambient.cave' to Allan]
-[22:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'ambient.cave' to Ursinha]
-[22:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Allan]
-[22:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Ursinha]
-[22:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Allan]
-[22:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.guardian.ambient' to Ursinha]
-[22:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Allan]
-[22:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Stopped all sounds for Ursinha]
-[22:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.enderdragon.ambient' to Allan]
-[22:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.enderdragon.ambient' to Ursinha]
-[22:14:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.enderdragon.ambient' to Allan]
-[22:14:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.enderdragon.ambient' to Ursinha]
-[22:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.zombie.ambient' to Allan]
-[22:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.zombie.ambient' to Ursinha]
-[22:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.zombie.ambient' to Allan]
-[22:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.zombie.ambient' to Ursinha]
-[22:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.wither.ambient' to Allan]
-[22:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.wither.ambient' to Ursinha]
-[22:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.wither.spawn' to Allan]
-[22:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.wither.spawn' to Ursinha]
-[22:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'item.armor.equip_leather' to Allan]
-[22:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'item.armor.equip_leather' to Ursinha]
-[22:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Allan]
-[22:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Allan]
-[22:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Allan]
-[22:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Ursinha]
-[22:15:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Allan]
-[22:15:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Played sound 'entity.lightning.thunder' to Ursinha]
-[22:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Command Block] * 1 to Allan]
-[22:16:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[22:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[22:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
-[22:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
-[22:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[22:16:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:16:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:16:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:16:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:16:19] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
-[22:16:19] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
-[22:16:20] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
-[22:16:20] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:16:20] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:16:20] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ursinha lost connection: Server closed
-[22:16:20] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ursinha left the game
-[22:16:20] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:52:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:52:54] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[17:52:54] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_381, running on Linux:amd64:6.2.0-33-generic, installed at /home/allan/Documentos/jre1.8.0_381
+[17:52:54] [main/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
+[17:52:54] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:52:54] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[17:52:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:52:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:52:56] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:52:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:52:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:52:56] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[17:52:56] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[17:52:56] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[17:52:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:52:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:52:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:52:57] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:53:03] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[17:53:03] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:53:03] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:53:04] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:53:04] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
+[17:53:06] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
+[17:53:07] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
+[17:53:07] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:53:07] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[17:53:07] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
+[17:53:07] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at CLIENT
+[17:53:07] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at SERVER
+[17:53:09] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:53:09] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
+[17:53:09] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:53:09] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:53:09] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:53:09] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:53:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:28] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
+[17:53:30] [Server thread/INFO] [FML]: Applying holder lookups
+[17:53:30] [Server thread/INFO] [FML]: Holder lookups applied
+[17:53:30] [Server thread/INFO] [FML]: Applying holder lookups
+[17:53:30] [Server thread/INFO] [FML]: Holder lookups applied
+[17:53:32] [Server thread/INFO] [FML]: Applying holder lookups
+[17:53:32] [Server thread/INFO] [FML]: Holder lookups applied
+[17:53:32] [Server thread/INFO] [FML]: Applying holder lookups
+[17:53:32] [Server thread/INFO] [FML]: Holder lookups applied
+[17:53:32] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:53:32] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[17:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[17:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[17:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.0.144:25565
+[17:53:32] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[17:53:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:53:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[17:53:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:53:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:53:34] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[17:53:34] [Server thread/INFO] [FML]: Applying holder lookups
+[17:53:34] [Server thread/INFO] [FML]: Holder lookups applied
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[17:53:37] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[17:53:37] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:53:37] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:53:43] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[17:53:43] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[17:53:43] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[17:53:46] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
+[17:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[17:53:46] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@51aaf7b5)
+[17:53:46] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 545 advancements
+[17:53:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@51aaf7b5)
+[17:53:50] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@51aaf7b5)
+[17:53:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[17:53:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[17:53:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[17:53:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[17:53:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[17:53:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[17:54:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[17:54:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
+[17:54:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[17:54:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[17:54:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
+[17:54:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 31%
+[17:54:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[17:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 36%
+[17:54:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
+[17:54:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[17:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 43%
+[17:54:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[17:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 46%
+[17:54:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 49%
+[17:54:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
+[17:54:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[17:54:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 54%
+[17:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[17:54:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[17:54:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
+[17:54:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 64%
+[17:54:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[17:54:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[17:54:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[17:54:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
+[17:54:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[17:54:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 74%
+[17:54:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[17:54:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
+[17:54:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 80%
+[17:54:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 80%
+[17:54:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 83%
+[17:54:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[17:54:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[17:54:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 92%
+[17:54:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 96%
+[17:54:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
+[17:54:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (63,600s)! For help, type "help" or "?"
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -17
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1505
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1503
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1501
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1506
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1511
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1500
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1509
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1502
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1507
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1508
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1510
+[17:54:49] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1504
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "reindeer" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:49] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[17:54:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:54:50] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:54:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[17:54:55] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[17:55:12] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[17:55:29] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[17:58:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2335ms behind, skipping 46 tick(s)
+[18:08:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2121ms behind, skipping 42 tick(s)
+[18:29:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2031ms behind, skipping 40 tick(s)
+[18:35:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2568ms behind, skipping 51 tick(s)
+[18:36:07] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:36:07] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[18:36:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:36:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:45566] logged in with entity id 2254 at (222.5, 78.0, 114.5)
+[18:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[18:36:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3007ms behind, skipping 60 tick(s)
+[18:36:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: You logged in from another location
+[18:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[18:36:21] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[18:36:21] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[18:36:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:36:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.144:39802] logged in with entity id 3331 at (222.5, 78.0, 114.5)
+[18:36:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[18:36:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4184ms behind, skipping 83 tick(s)
+[18:36:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Disconnected
+[18:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[18:37:02] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[18:37:02] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[18:37:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:37:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:49404] logged in with entity id 3496 at (222.5, 78.0, 114.5)
+[18:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[18:37:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4039ms behind, skipping 80 tick(s)
+[18:37:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2065ms behind, skipping 41 tick(s)
+[18:37:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2052ms behind, skipping 41 tick(s)
+[18:38:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2885ms behind, skipping 57 tick(s)
+[18:38:34] [Netty Epoll Server IO #8/INFO] [FML]: Client protocol version 2
+[18:38:34] [Netty Epoll Server IO #8/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[18:38:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:38:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:57776] logged in with entity id 5518 at (217.5, 78.0, 118.5)
+[18:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[18:38:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2950ms behind, skipping 59 tick(s)
+[18:38:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[18:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[18:39:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2220ms behind, skipping 44 tick(s)
+[18:39:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4507ms behind, skipping 90 tick(s)
+[18:41:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2513ms behind, skipping 50 tick(s)
+[18:41:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3783ms behind, skipping 75 tick(s)
+[18:55:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2614ms behind, skipping 52 tick(s)
+[18:55:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Disconnected
+[18:55:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[18:56:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2879ms behind, skipping 57 tick(s)
+[18:56:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4285ms behind, skipping 85 tick(s)
+[19:01:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2079ms behind, skipping 41 tick(s)
+[19:01:06] [Netty Epoll Server IO #13/INFO] [FML]: Client protocol version 2
+[19:01:06] [Netty Epoll Server IO #13/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[19:01:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:01:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MarrentoBR[/192.168.0.144:36830] logged in with entity id 25004 at (224.5, 78.0, 116.5)
+[19:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MarrentoBR joined the game
+[19:01:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MarrentoBR lost connection: Disconnected
+[19:01:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MarrentoBR left the game
+[19:01:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2238ms behind, skipping 44 tick(s)
+[19:09:07] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:09:07] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42
+[19:09:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:09:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:45076] logged in with entity id 25741 at (221.05335311036023, 78.0, 118.14322477843963)
+[19:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[19:09:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[19:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[19:25:20] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[19:25:20] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.4.2705,mcp@9.42
+[19:25:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:25:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:52978] logged in with entity id 26175 at (221.05335311036023, 78.0, 118.14322477843963)
+[19:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[19:25:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2399ms behind, skipping 47 tick(s)
+[19:25:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[19:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[19:33:54] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:33:54] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.4.2705,mcp@9.42
+[19:33:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:33:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:59382] logged in with entity id 26357 at (402.06240580785055, 65.0, 31.795302361544096)
+[19:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[19:34:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5023ms behind, skipping 100 tick(s)
+[19:34:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 7.472811970218345,2.044812420399012,6.69973707954594
+[19:34:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4125ms behind, skipping 82 tick(s)
+[19:35:11] [Netty Epoll Server IO #9/INFO] [FML]: Client protocol version 2
+[19:35:11] [Netty Epoll Server IO #9/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.4.2705,mcp@9.42
+[19:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Allan
+[19:35:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:35:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:52814] logged in with entity id 27741 at (220.14715575292112, 78.0, 116.58245928834852)
+[19:35:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[19:35:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2219ms behind, skipping 44 tick(s)
+[19:35:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3585ms behind, skipping 71 tick(s)
+[19:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule keepInventory has been updated to true]
+[19:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to ursinha]
+[19:36:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:36:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2073ms behind, skipping 41 tick(s)
+[19:36:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:37:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:38:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:38:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[19:39:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[19:42:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2012ms behind, skipping 40 tick(s)
+[19:43:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2534ms behind, skipping 50 tick(s)
+[19:44:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
+[19:44:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2739ms behind, skipping 54 tick(s)
+[19:46:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:46:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Stone Age]
+[19:50:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has made the advancement [Stone Age]
+[19:56:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
+[19:58:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 10.771429333734886,0.0,1.1446719524397935
+[19:58:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 10.66470816612184,0.0,-0.19168618963096762
+[19:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set the world spawn point to (465, 68, -34)]
+[19:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan fell out of the world
+[19:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Killed Allan]
+[19:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set ursinha's game mode to Creative Mode]
+[19:58:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:58:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
+[19:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set ursinha's game mode to Survival Mode]
+[20:00:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2774ms behind, skipping 55 tick(s)
+[20:01:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2943ms behind, skipping 58 tick(s)
+[20:02:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2852ms behind, skipping 57 tick(s)
+[20:02:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -6.764897299230029,-1.0,-7.41363600089219
+[20:02:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2173ms behind, skipping 43 tick(s)
+[20:03:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
+[20:03:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.530795958256931,-2.0,-3.022134464493927
+[20:04:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 21204ms behind, skipping 424 tick(s)
+[20:04:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:05:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Disconnected
+[20:06:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[20:06:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[20:06:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[20:10:24] [Netty Epoll Server IO #12/INFO] [FML]: Client protocol version 2
+[20:10:24] [Netty Epoll Server IO #12/INFO] [FML]: Client attempting to join with 13 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,extraplanets@1.12.2-0.7.3,baubles@1.5.2,zaraklib@0.0.4,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.4.2705,mcp@9.42
+[20:10:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:10:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:45704] logged in with entity id 84796 at (198.8914245906432, 73.0, -3.0473694607597)
+[20:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[20:10:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Disconnected
+[20:10:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[20:10:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[20:10:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:10:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:10:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:10:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:10:57] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
+[20:10:57] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
+[20:10:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:10:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:10:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

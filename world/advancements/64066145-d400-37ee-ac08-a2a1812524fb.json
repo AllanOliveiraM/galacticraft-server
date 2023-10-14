@@ -1,0 +1,20 @@
+{
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2023-09-30 19:01:08 -0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-09-30 19:01:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-09-30 19:01:08 -0300"
+    },
+    "done": false
+  }
+}
