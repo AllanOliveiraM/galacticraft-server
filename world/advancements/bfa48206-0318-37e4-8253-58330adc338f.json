@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_red_dye": "2023-10-15 18:26:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2023-10-14 18:18:46 -0300"
@@ -882,6 +888,12 @@
   "betteranimalsplus:befriend_goat": {
     "criteria": {
       "goat_fight_friend": "2023-10-15 04:26:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-10-15 18:20:12 -0300"
     },
     "done": true
   },
@@ -1519,6 +1531,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-10-15 03:55:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-10-15 18:26:55 -0300"
     },
     "done": true
   },
