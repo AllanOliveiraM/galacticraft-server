@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-10-16 04:23:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2023-10-14 17:36:54 -0300"
@@ -284,6 +290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-10-16 04:42:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2023-10-15 18:26:55 -0300"
@@ -442,6 +454,12 @@
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2023-10-14 17:30:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2023-10-16 04:42:36 -0300"
     },
     "done": true
   },
@@ -696,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-10-16 04:42:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2023-10-14 17:41:36 -0300"
@@ -723,6 +747,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-14 17:40:50 -0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/moon_buggy_schematic": {
+    "criteria": {
+      "got_schematic": "2023-10-16 02:36:01 -0300"
     },
     "done": true
   },
@@ -792,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-16 02:36:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-14 20:24:10 -0300"
@@ -832,6 +868,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-14 17:40:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-10-16 05:20:32 -0300"
     },
     "done": true
   },
@@ -979,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-10-16 05:07:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-10-14 17:37:16 -0300"
@@ -1054,6 +1102,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-14 20:24:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-10-16 04:42:36 -0300"
     },
     "done": true
   },
@@ -1171,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-10-16 04:23:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2023-10-14 17:36:54 -0300"
@@ -1186,6 +1246,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2023-10-14 18:32:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-16 02:36:09 -0300"
     },
     "done": true
   },
@@ -1345,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2023-10-16 04:42:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2023-10-14 22:27:37 -0300",
@@ -1367,6 +1439,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-14 17:40:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-10-16 04:20:10 -0300"
     },
     "done": true
   },
@@ -1457,6 +1535,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2023-10-14 19:09:12 -0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/key_t1": {
+    "criteria": {
+      "got_key": "2023-10-16 03:06:34 -0300"
     },
     "done": true
   },

@@ -1,197 +1,1034 @@
-[00:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule doDaylightCycle has been updated to true]
-[00:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Toggled downfall]
-[00:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Glowstone Torch] * 64 to Allan]
-[00:49:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Glowstone Torch] * 64 to Allan]
-[00:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Glowstone Torch] * 64 to Allan]
-[00:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Glowstone Torch] * 64 to Allan]
-[00:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has made the advancement [Cover Me With Diamonds]
-[00:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has made the advancement [Air 2 Go]
-[00:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has reached the goal [All set]
-[00:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Toggled downfall]
-[00:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has reached the goal [We have liftoff!]
-[00:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has reached the goal [We have liftoff!]
-[01:00:37] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:37] [Server thread/INFO] [FML]: Loading dimension -20 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:39] [Server thread/INFO] [FML]: Loading dimension -21 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:39] [Server thread/INFO] [FML]: Loading dimension -15 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:39] [Server thread/INFO] [FML]: Loading dimension -22 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:39] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:40] [Server thread/INFO] [FML]: Loading dimension -13 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:41] [Server thread/INFO] [FML]: Loading dimension -18 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:42] [Server thread/INFO] [FML]: Loading dimension -19 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:44] [Server thread/INFO] [FML]: Loading dimension -16 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:45] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:45] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:45] [Server thread/INFO] [FML]: Loading dimension -1505 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:45] [Server thread/INFO] [FML]: Loading dimension -1503 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1501 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1506 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1511 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1500 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1509 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:47] [Server thread/INFO] [FML]: Loading dimension -1502 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:49] [Server thread/INFO] [FML]: Loading dimension -1507 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:49] [Server thread/INFO] [FML]: Loading dimension -1508 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:49] [Server thread/INFO] [FML]: Loading dimension -1510 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:49] [Server thread/INFO] [FML]: Loading dimension -1504 (world) (net.minecraft.server.dedicated.DedicatedServer@7aebc52d)
-[01:00:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11969ms behind, skipping 239 tick(s)
-[01:00:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2578ms behind, skipping 51 tick(s)
-[01:01:14] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: -28
-[01:01:14] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -28
-[01:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has completed the challenge [The Moon!]
-[01:01:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8463ms behind, skipping 169 tick(s)
-[01:01:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2034ms behind, skipping 40 tick(s)
-[01:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan forgot pressure protection
-[01:02:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
-[01:02:55] [Netty Epoll Server IO #9/ERROR] [FML]: NetworkDispatcher exception
-io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
-[01:02:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-[01:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
-[01:04:16] [Netty Epoll Server IO #13/INFO] [FML]: Client protocol version 2
-[01:04:16] [Netty Epoll Server IO #13/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
-[01:04:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:04:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:38006] logged in with entity id 107959 at (-167.43425685214584, 1204.04990234375, 320.0043410058213)
-[01:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
-[01:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
-[01:04:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan forgot pressure protection
-[01:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan forgot pressure protection
-[01:04:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan forgot pressure protection
-[01:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
-[01:05:05] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: -28
-[01:05:05] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan within same dimension -28
-[01:05:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
-[01:05:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[01:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[01:05:19] [Netty Epoll Server IO #15/INFO] [FML]: Client protocol version 2
-[01:05:19] [Netty Epoll Server IO #15/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
-[01:05:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:05:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:51768] logged in with entity id 108105 at (0.0, 901.9, 0.0)
-[01:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[01:05:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3342ms behind, skipping 66 tick(s)
-[01:06:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -4.587017224350475,2.2729947543590896,8.684379164889116
-[01:06:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 5.148963055151487,0.0,-9.508167651595414
-[01:06:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 4.540777182427934,-2.9328340999726237,-8.41739069678249
-[01:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to -164.5, 60.0, 318.5]
-[01:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to -11.5, 63.0, 32.5]
-[01:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to -164.5, 60.0, 318.5]
-[01:09:05] [Netty Epoll Server IO #13/ERROR] [FML]: NetworkDispatcher exception
-io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
-[01:09:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-[01:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
-[01:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
-[01:10:24] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[01:10:24] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
-[01:10:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:10:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:45914] logged in with entity id 112238 at (-167.43425685214584, 1205.04990234375, 320.0043410058213)
-[01:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
-[01:10:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4945ms behind, skipping 98 tick(s)
-[01:12:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
-[01:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[01:12:15] [Server thread/INFO] [Galacticraft]: Found matching world (-28) for name: -28
-[01:12:15] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player ursinha to dimension -28
-[01:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha has completed the challenge [The Moon!]
-[01:12:46] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:12:46] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
-[01:12:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:12:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:53888] logged in with entity id 112918 at (-163.51102310464867, 60.0, 314.7024479989187)
-[01:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
-[01:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
-[01:13:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Set own game mode to Creative Mode]
-[01:15:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Set own game mode to Survival Mode]
-[01:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
-[01:30:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha was kicked for floating too long!
-[01:30:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Flying is not enabled on this server
-[01:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
-[01:31:12] [Netty Epoll Server IO #3/ERROR] [FML]: NetworkDispatcher exception
-io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
-[01:31:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexão fechada pela outra ponta
-[01:31:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
-[01:31:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2743ms behind, skipping 54 tick(s)
-[01:31:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.asteroids
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Ceres
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Eris
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Jupiter
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.kepler22b
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.mars
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Mercury
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Neptune
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Pluto
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Saturn
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Uranus
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.venus
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.callisto
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.deimos
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.europa
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.ganymede
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.iapetus
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.io
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.moon
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.oberon
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.phobos
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.rhea
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titan
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titania
-[01:31:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.triton
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension 0
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -30
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -20
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -21
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -15
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -22
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -29
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -13
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -18
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -19
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -16
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -17
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -31
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1505
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1503
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1501
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1506
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1511
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1500
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -28
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1509
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1502
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1507
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1508
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1510
-[01:31:44] [Server thread/INFO] [FML]: Unloading dimension -1504
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
-[01:31:44] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
-[01:31:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[01:31:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[01:31:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:32:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:32:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:32:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:32:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[01:32:00] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_381, running on Linux:amd64:6.2.0-34-generic, installed at /home/allan/Documentos/jre1.8.0_381
+[01:32:01] [main/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
+[01:32:01] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:32:01] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[01:32:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:32:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:32:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:32:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:32:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:32:03] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:32:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:32:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:32:03] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[01:32:03] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[01:32:03] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[01:32:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:32:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:32:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:32:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:32:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:32:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[01:32:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:32:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:32:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:32:11] [Server thread/INFO] [FML]: Searching /home/allan/Documentos/galacticraft-server/./mods for mods
+[01:32:14] [Server thread/WARN] [FML]: Mod multibags is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.6
+[01:32:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
+[01:32:15] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:32:15] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[01:32:15] [Server thread/WARN] [FML]: Missing English translation for zaraklib: assets/zaraklib/lang/en_us.lang
+[01:32:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at CLIENT
+[01:32:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, baubles, extraplanets, galacticraftplanets, galacticraftcore, mjrlegendslib, multibags, zaraklib, betteranimalsplus] at SERVER
+[01:32:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:32:19] [Server thread/INFO] [FML]: Found 1204 ObjectHolder annotations
+[01:32:19] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:32:19] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:32:20] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:32:20] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:32:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:37] [Server thread/INFO] [STDOUT]: [scala.Console$:println:148]: Class zarak.zaraklib.api.ZBlockPos was registered!
+[01:32:39] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:39] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:39] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:39] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:40] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:40] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:40] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:40] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:32:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.0.144:25565
+[01:32:41] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:32:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:32:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:32:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:32:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:32:44] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[01:32:44] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:44] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[01:32:46] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[01:32:46] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:32:46] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:32:50] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[01:32:50] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[01:32:50] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[01:32:52] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
+[01:32:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:32:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:32:54] [Server thread/INFO] [FML]: Applying holder lookups
+[01:32:54] [Server thread/INFO] [FML]: Holder lookups applied
+[01:32:54] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[01:32:56] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 545 advancements
+[01:32:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[01:32:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[01:32:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:32:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[01:33:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[01:33:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
+[01:33:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[01:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (13,337s)! For help, type "help" or "?"
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -17
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1505
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1503
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1501
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1506
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1511
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1500
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1509
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1502
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1507
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1508
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1510
+[01:33:05] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1504
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "turkey" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "lammergeier" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "hirschgeist" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "fox" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "squirrel" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "badger" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "blackbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "zotzpyre" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "coyote" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "pheasant" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "reindeer" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "feralwolf" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "deer" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_magnetic_hills
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_arctic_peaks
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "goat" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "songbird" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "brownbear" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_irradiated_forests
+[01:33:05] [Server thread/ERROR] [betteranimalsplus]: Invalid biome configuration entered for entity "boar" (biome was mistyped or a biome mod was removed?): aether:aether_highlands
+[01:33:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:33:08] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:33:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2601ms behind, skipping 52 tick(s)
+[01:33:12] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[01:33:23] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:33:23] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
+[01:33:23] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:33:23] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
+[01:33:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:33:25] [Netty Epoll Server IO #1/ERROR] [FML]: HandshakeCompletionHandler exception
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:36) ~[HandshakeCompletionHandler.class:?]
+	at net.minecraftforge.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:30) ~[HandshakeCompletionHandler.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) ~[SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102) [MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) [MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) [EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:442) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:280) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:396) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_381]
+[01:33:25] [Netty Epoll Server IO #1/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.DecoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) [EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:442) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:280) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:396) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_381]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release0(AbstractReferenceCountedByteBuf.java:101) ~[AbstractReferenceCountedByteBuf.class:?]
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release(AbstractReferenceCountedByteBuf.java:89) ~[AbstractReferenceCountedByteBuf.class:?]
+	at io.netty.buffer.AbstractDerivedByteBuf.release0(AbstractDerivedByteBuf.java:89) ~[AbstractDerivedByteBuf.class:?]
+	at io.netty.buffer.AbstractDerivedByteBuf.release(AbstractDerivedByteBuf.java:85) ~[AbstractDerivedByteBuf.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:113) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:41) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81) ~[MessageToMessageCodec$2.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88) ~[MessageToMessageDecoder.class:?]
+	... 48 more
+[01:33:25] [Netty Epoll Server IO #1/ERROR] [FML]: HandshakeCompletionHandler exception
+io.netty.handler.codec.DecoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) [EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:442) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:280) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:396) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_381]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release0(AbstractReferenceCountedByteBuf.java:101) ~[AbstractReferenceCountedByteBuf.class:?]
+	at io.netty.buffer.AbstractReferenceCountedByteBuf.release(AbstractReferenceCountedByteBuf.java:89) ~[AbstractReferenceCountedByteBuf.class:?]
+	at io.netty.buffer.AbstractDerivedByteBuf.release0(AbstractDerivedByteBuf.java:89) ~[AbstractDerivedByteBuf.class:?]
+	at io.netty.buffer.AbstractDerivedByteBuf.release(AbstractDerivedByteBuf.java:85) ~[AbstractDerivedByteBuf.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:113) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:41) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81) ~[MessageToMessageCodec$2.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88) ~[MessageToMessageDecoder.class:?]
+	... 48 more
+[01:33:25] [Netty Epoll Server IO #1/ERROR] [FML]: There was a critical exception handling a packet on channel FML
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:36) ~[HandshakeCompletionHandler.class:?]
+	at net.minecraftforge.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:30) ~[HandshakeCompletionHandler.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) ~[SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) ~[DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) ~[DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) ~[EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:442) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:280) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:396) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_381]
+[01:33:25] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[01:33:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:37618] logged in with entity id 459 at (-179.4164726738408, 71.0, 322.9133236791382)
+[01:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[01:33:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Internal Exception: java.lang.NullPointerException
+[01:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[01:33:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3248ms behind, skipping 64 tick(s)
+[01:33:30] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[01:33:31] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:33:31] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
+[01:33:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:33:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ursinha[/192.168.0.103:37316] logged in with entity id 539 at (-175.30739466618405, 67.55615459781059, 334.87426665299984)
+[01:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha joined the game
+[01:33:49] [Thread-6/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[01:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Vacuum Glass (Clear)] * 64 to Allan]
+[02:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Fluid Tank] * 64 to Allan]
+[02:21:42] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-28, 17] in dimension -28 (moon.moon) while populating chunk [-28, 16], causing cascading worldgen lag.
+[02:21:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:21:42] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-28, 18] in dimension -28 (moon.moon) while populating chunk [-28, 17], causing cascading worldgen lag.
+[02:21:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:21:42] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-28, 19] in dimension -28 (moon.moon) while populating chunk [-28, 18], causing cascading worldgen lag.
+[02:21:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:21:43] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-29, 19] in dimension -28 (moon.moon) while populating chunk [-28, 20], causing cascading worldgen lag.
+[02:21:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-8, -15] in dimension -28 (moon.moon) while populating chunk [-9, -15], causing cascading worldgen lag.
+[02:23:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-7, -15] in dimension -28 (moon.moon) while populating chunk [-8, -15], causing cascading worldgen lag.
+[02:23:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-7, -16] in dimension -28 (moon.moon) while populating chunk [-8, -15], causing cascading worldgen lag.
+[02:23:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-8, -16] in dimension -28 (moon.moon) while populating chunk [-9, -15], causing cascading worldgen lag.
+[02:23:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:40] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-8, -19] in dimension -28 (moon.moon) while populating chunk [-9, -19], causing cascading worldgen lag.
+[02:23:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:40] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-6, -20] in dimension -28 (moon.moon) while populating chunk [-6, -19], causing cascading worldgen lag.
+[02:23:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:23:40] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-7, -20] in dimension -28 (moon.moon) while populating chunk [-6, -20], causing cascading worldgen lag.
+[02:23:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:26:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-21, -73] in dimension -28 (moon.moon) while populating chunk [-22, -73], causing cascading worldgen lag.
+[02:26:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:26:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-20, -73] in dimension -28 (moon.moon) while populating chunk [-21, -73], causing cascading worldgen lag.
+[02:26:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:26:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-20, -74] in dimension -28 (moon.moon) while populating chunk [-21, -73], causing cascading worldgen lag.
+[02:26:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:26:46] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-21, -74] in dimension -28 (moon.moon) while populating chunk [-22, -73], causing cascading worldgen lag.
+[02:26:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:26:56] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-20, -75] in dimension -28 (moon.moon) while populating chunk [-21, -75], causing cascading worldgen lag.
+[02:26:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3001ms behind, skipping 60 tick(s)
+[02:28:21] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-37, -91] in dimension -28 (moon.moon) while populating chunk [-38, -91], causing cascading worldgen lag.
+[02:28:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:28:21] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-36, -91] in dimension -28 (moon.moon) while populating chunk [-37, -91], causing cascading worldgen lag.
+[02:28:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:28:21] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-36, -92] in dimension -28 (moon.moon) while populating chunk [-37, -91], causing cascading worldgen lag.
+[02:28:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:28:21] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-37, -92] in dimension -28 (moon.moon) while populating chunk [-38, -91], causing cascading worldgen lag.
+[02:28:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:28:56] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-38, -95] in dimension -28 (moon.moon) while populating chunk [-38, -94], causing cascading worldgen lag.
+[02:28:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-58, -90] in dimension -28 (moon.moon) while populating chunk [-58, -91], causing cascading worldgen lag.
+[02:29:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-58, -89] in dimension -28 (moon.moon) while populating chunk [-58, -90], causing cascading worldgen lag.
+[02:29:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-59, -89] in dimension -28 (moon.moon) while populating chunk [-58, -90], causing cascading worldgen lag.
+[02:29:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:19] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-59, -90] in dimension -28 (moon.moon) while populating chunk [-58, -91], causing cascading worldgen lag.
+[02:29:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-63, -91] in dimension -28 (moon.moon) while populating chunk [-62, -91], causing cascading worldgen lag.
+[02:29:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:29:39] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-64, -89] in dimension -28 (moon.moon) while populating chunk [-64, -90], causing cascading worldgen lag.
+[02:29:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:30:21] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[02:30:21] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[02:34:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2186ms behind, skipping 43 tick(s)
+[02:35:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -10.063424425641415,1.1823600463473802,-1.4867746192167033
+[02:35:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -7.190476738433404,0.8416639930439196,7.195861471068611
+[02:35:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 9.598684044661582,1.147432843364978,3.3735838144316403
+[02:35:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4588ms behind, skipping 91 tick(s)
+[02:35:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3142ms behind, skipping 62 tick(s)
+[02:36:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Glitchy schematic]
+[02:43:56] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-88, -123] in dimension -28 (moon.moon) while populating chunk [-87, -122], causing cascading worldgen lag.
+[02:43:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-123, -164] in dimension -28 (moon.moon) while populating chunk [-123, -165], causing cascading worldgen lag.
+[02:49:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-123, -163] in dimension -28 (moon.moon) while populating chunk [-123, -164], causing cascading worldgen lag.
+[02:49:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-124, -163] in dimension -28 (moon.moon) while populating chunk [-123, -164], causing cascading worldgen lag.
+[02:49:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-124, -164] in dimension -28 (moon.moon) while populating chunk [-123, -165], causing cascading worldgen lag.
+[02:49:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:36] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-124, -163] in dimension -28 (moon.moon) while populating chunk [-124, -165], causing cascading worldgen lag.
+[02:49:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:36] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-123, -163] in dimension -28 (moon.moon) while populating chunk [-124, -165], causing cascading worldgen lag.
+[02:49:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:40] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-125, -170] in dimension -28 (moon.moon) while populating chunk [-125, -171], causing cascading worldgen lag.
+[02:49:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:40] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-125, -169] in dimension -28 (moon.moon) while populating chunk [-125, -170], causing cascading worldgen lag.
+[02:49:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-124, -163] in dimension -28 (moon.moon) while populating chunk [-125, -165], causing cascading worldgen lag.
+[02:49:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-124, -164] in dimension -28 (moon.moon) while populating chunk [-125, -165], causing cascading worldgen lag.
+[02:49:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-123, -163] in dimension -28 (moon.moon) while populating chunk [-125, -165], causing cascading worldgen lag.
+[02:49:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:49:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-123, -164] in dimension -28 (moon.moon) while populating chunk [-125, -165], causing cascading worldgen lag.
+[02:49:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:25] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-122, -207] in dimension -28 (moon.moon) while populating chunk [-123, -207], causing cascading worldgen lag.
+[02:52:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:25] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-121, -207] in dimension -28 (moon.moon) while populating chunk [-122, -207], causing cascading worldgen lag.
+[02:52:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:25] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-121, -208] in dimension -28 (moon.moon) while populating chunk [-122, -207], causing cascading worldgen lag.
+[02:52:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-120, -207] in dimension -28 (moon.moon) while populating chunk [-121, -208], causing cascading worldgen lag.
+[02:52:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:27] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-122, -208] in dimension -28 (moon.moon) while populating chunk [-123, -207], causing cascading worldgen lag.
+[02:52:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.57283672812423,2.657543393797752,-8.09832229064068
+[02:52:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[02:52:39] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-122, -208] in dimension -28 (moon.moon) while populating chunk [-123, -209], causing cascading worldgen lag.
+[02:52:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:39] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-122, -207] in dimension -28 (moon.moon) while populating chunk [-123, -209], causing cascading worldgen lag.
+[02:52:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:39] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-121, -208] in dimension -28 (moon.moon) while populating chunk [-123, -209], causing cascading worldgen lag.
+[02:52:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:39] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-121, -207] in dimension -28 (moon.moon) while populating chunk [-123, -209], causing cascading worldgen lag.
+[02:52:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-139, -199] in dimension -28 (moon.moon) while populating chunk [-139, -200], causing cascading worldgen lag.
+[02:52:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-139, -198] in dimension -28 (moon.moon) while populating chunk [-139, -199], causing cascading worldgen lag.
+[02:52:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-140, -198] in dimension -28 (moon.moon) while populating chunk [-139, -199], causing cascading worldgen lag.
+[02:52:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:52:41] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-140, -199] in dimension -28 (moon.moon) while populating chunk [-139, -200], causing cascading worldgen lag.
+[02:52:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:53:03] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-141, -198] in dimension -28 (moon.moon) while populating chunk [-141, -199], causing cascading worldgen lag.
+[02:53:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:53:09] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-143, -198] in dimension -28 (moon.moon) while populating chunk [-143, -199], causing cascading worldgen lag.
+[02:53:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:53:12] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-145, -199] in dimension -28 (moon.moon) while populating chunk [-144, -199], causing cascading worldgen lag.
+[02:53:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:57:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -6.189755256621083,-1.6853989648533627,-7.81044133446585
+[02:59:15] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-181, -259] in dimension -28 (moon.moon) while populating chunk [-180, -259], causing cascading worldgen lag.
+[02:59:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:01:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-194, -299] in dimension -28 (moon.moon) while populating chunk [-195, -299], causing cascading worldgen lag.
+[03:01:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:01:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-193, -299] in dimension -28 (moon.moon) while populating chunk [-194, -299], causing cascading worldgen lag.
+[03:01:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:01:26] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-192, -304] in dimension -28 (moon.moon) while populating chunk [-193, -304], causing cascading worldgen lag.
+[03:01:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:01:26] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-191, -304] in dimension -28 (moon.moon) while populating chunk [-192, -304], causing cascading worldgen lag.
+[03:01:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:02:58] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-199, -314] in dimension -28 (moon.moon) while populating chunk [-200, -314], causing cascading worldgen lag.
+[03:02:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:08] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-199, -316] in dimension -28 (moon.moon) while populating chunk [-200, -316], causing cascading worldgen lag.
+[03:03:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:08] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-198, -316] in dimension -28 (moon.moon) while populating chunk [-199, -316], causing cascading worldgen lag.
+[03:03:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:08] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-198, -317] in dimension -28 (moon.moon) while populating chunk [-199, -316], causing cascading worldgen lag.
+[03:03:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:08] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-199, -317] in dimension -28 (moon.moon) while populating chunk [-200, -316], causing cascading worldgen lag.
+[03:03:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[03:03:26] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-207, -314] in dimension -28 (moon.moon) while populating chunk [-206, -314], causing cascading worldgen lag.
+[03:03:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:03:28] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-207, -318] in dimension -28 (moon.moon) while populating chunk [-206, -318], causing cascading worldgen lag.
+[03:03:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:04:21] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-207, -314] in dimension -28 (moon.moon) while populating chunk [-207, -316], causing cascading worldgen lag.
+[03:04:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:06:31] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[03:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has completed the challenge [I has the key]
+[03:15:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-224, -356] in dimension -28 (moon.moon) while populating chunk [-224, -357], causing cascading worldgen lag.
+[03:15:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-224, -355] in dimension -28 (moon.moon) while populating chunk [-224, -356], causing cascading worldgen lag.
+[03:15:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-225, -355] in dimension -28 (moon.moon) while populating chunk [-224, -356], causing cascading worldgen lag.
+[03:15:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:14] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-225, -356] in dimension -28 (moon.moon) while populating chunk [-224, -357], causing cascading worldgen lag.
+[03:15:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-227, -351] in dimension -28 (moon.moon) while populating chunk [-227, -352], causing cascading worldgen lag.
+[03:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-228, -350] in dimension -28 (moon.moon) while populating chunk [-227, -351], causing cascading worldgen lag.
+[03:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-227, -350] in dimension -28 (moon.moon) while populating chunk [-228, -350], causing cascading worldgen lag.
+[03:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-228, -351] in dimension -28 (moon.moon) while populating chunk [-227, -352], causing cascading worldgen lag.
+[03:15:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:49] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-228, -350] in dimension -28 (moon.moon) while populating chunk [-228, -352], causing cascading worldgen lag.
+[03:15:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:49] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-228, -351] in dimension -28 (moon.moon) while populating chunk [-228, -352], causing cascading worldgen lag.
+[03:15:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:50] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-227, -350] in dimension -28 (moon.moon) while populating chunk [-228, -352], causing cascading worldgen lag.
+[03:15:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:15:50] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-227, -351] in dimension -28 (moon.moon) while populating chunk [-228, -352], causing cascading worldgen lag.
+[03:15:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:17:44] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-245, -398] in dimension -28 (moon.moon) while populating chunk [-245, -397], causing cascading worldgen lag.
+[03:17:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:17:49] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-247, -384] in dimension -28 (moon.moon) while populating chunk [-246, -384], causing cascading worldgen lag.
+[03:17:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:18:09] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-250, -397] in dimension -28 (moon.moon) while populating chunk [-250, -398], causing cascading worldgen lag.
+[03:18:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:01] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-263, -425] in dimension -28 (moon.moon) while populating chunk [-262, -425], causing cascading worldgen lag.
+[03:20:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:01] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-263, -426] in dimension -28 (moon.moon) while populating chunk [-263, -425], causing cascading worldgen lag.
+[03:20:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:01] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-262, -426] in dimension -28 (moon.moon) while populating chunk [-263, -426], causing cascading worldgen lag.
+[03:20:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:20:43] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-267, -425] in dimension -28 (moon.moon) while populating chunk [-267, -426], causing cascading worldgen lag.
+[03:20:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:24:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.939171662984336,2.0255035030643747,-3.5989772878701842
+[03:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha suffocated in a wall
+[03:24:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 3.440185249377464,1.8000000476837172,9.465477783149254
+[03:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Teleported ursinha to Allan]
+[03:25:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.906767691682035,2.0255035030643747,8.9422295444665
+[03:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to -169.5, 60.0, 316.5]
+[03:28:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Teleported ursinha to -181.5, 61.0, 315.5]
+[04:02:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[04:03:00] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:00] [Server thread/INFO] [FML]: Loading dimension -20 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:02] [Server thread/INFO] [FML]: Loading dimension -21 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:02] [Server thread/INFO] [FML]: Loading dimension -15 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:02] [Server thread/INFO] [FML]: Loading dimension -22 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:02] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:04] [Server thread/INFO] [FML]: Loading dimension -13 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -18 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -19 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -16 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -1505 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:06] [Server thread/INFO] [FML]: Loading dimension -1503 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:07] [Server thread/INFO] [FML]: Loading dimension -1501 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:08] [Server thread/INFO] [FML]: Loading dimension -1506 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:09] [Server thread/INFO] [FML]: Loading dimension -1511 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:09] [Server thread/INFO] [FML]: Loading dimension -1500 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:09] [Server thread/INFO] [FML]: Loading dimension -1509 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:09] [Server thread/INFO] [FML]: Loading dimension -1502 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:09] [Server thread/INFO] [FML]: Loading dimension -1507 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:11] [Server thread/INFO] [FML]: Loading dimension -1508 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:11] [Server thread/INFO] [FML]: Loading dimension -1510 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:11] [Server thread/INFO] [FML]: Loading dimension -1504 (world) (net.minecraft.server.dedicated.DedicatedServer@73545e9d)
+[04:03:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10656ms behind, skipping 213 tick(s)
+[04:03:18] [Server thread/INFO] [Galacticraft]: Found matching world (0) for name: 0
+[04:03:18] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player ursinha to dimension 0
+[04:03:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
+[04:06:18] [Server thread/INFO] [Galacticraft]: Found matching world (0) for name: 0
+[04:06:18] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension 0
+[04:06:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2051ms behind, skipping 41 tick(s)
+[04:11:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4069ms behind, skipping 81 tick(s)
+[04:19:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[04:20:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3100ms behind, skipping 62 tick(s)
+[04:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Command Block] * 1 to Allan]
+[04:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Teleported ursinha to -158.5, 71.0, 306.5]
+[04:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Creative Mode]
+[04:23:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.174221055590493,0.0,3.8530736943825445
+[04:23:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:24:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:24:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:24:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:24:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:26:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[04:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[04:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set own game mode to Survival Mode]
+[04:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported ursinha to -243.5, 63.0, 370.5]
+[04:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:27:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported ursinha to -150.5, 71.0, 308.5]
+[04:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[04:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 300]
+[04:28:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3274ms behind, skipping 65 tick(s)
+[04:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 1000]
+[04:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 10000]
+[04:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 3]
+[04:29:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9020ms behind, skipping 180 tick(s)
+[04:32:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2454ms behind, skipping 49 tick(s)
+[04:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 10000]
+[04:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Game rule randomTickSpeed has been updated to 3]
+[04:32:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10522ms behind, skipping 210 tick(s)
+[04:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[04:49:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:50:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:50:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[04:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[04:53:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:53:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[05:00:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:00:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[05:03:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 9.764532353031605,-2.227779252040037,-2.4412078335114415
+[05:03:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2638ms behind, skipping 52 tick(s)
+[05:04:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[05:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -243.5, 63.0, 370.5]
+[05:05:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -0.3353664052573322,1.044812420399012,10.201863765908342
+[05:05:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2145ms behind, skipping 42 tick(s)
+[05:05:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3407ms behind, skipping 68 tick(s)
+[05:06:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2097ms behind, skipping 41 tick(s)
+[05:06:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 1.8723895929330183,-1.5043168751412566,9.723929317957754
+[05:06:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 2.950484955737036,-1.0,9.769240226194142
+[05:06:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 2.507747492492342,0.0,9.728816917123936
+[05:07:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 32576ms behind, skipping 651 tick(s)
+[05:07:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3823ms behind, skipping 76 tick(s)
+[05:07:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8458ms behind, skipping 169 tick(s)
+[05:07:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2439ms behind, skipping 48 tick(s)
+[05:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Best Friends Forever]
+[05:08:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.690442870200499,1.6668000063657757,8.644907155296465
+[05:08:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 0.9896722966903013,0.2712241076924897,10.234054638149019
+[05:08:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2059ms behind, skipping 41 tick(s)
+[05:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Saddle] * 1 to Allan]
+[05:08:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given [Lead] * 64 to Allan]
+[05:08:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.072570810829433,1.0,-4.582125940664241
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.649859416151088,1.0,-4.827525482680699
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.233457468737072,1.0,-5.0578673374451455
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.820431580757372,1.0,-5.280152123978951
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.409212154869607,2.0,-5.498125733943084
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.998959330830274,2.0,-5.713792519280446
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.589223716168078,2.0,-5.928224968753057
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.179764849931559,2.0,-6.141996949714439
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.770454066259845,2.0,-6.355415527143805
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.361222518616103,2.0,-6.568645005389385
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.952033368591145,2.0,-6.781773300431837
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 15.542866904686662,2.0,-6.9948474543597285
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 16.13371257967296,2.0,-7.207892638456656
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 16.724564749937656,2.0,-7.420922321374633
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.31542039569635,2.0,-7.6339437099208
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.906277901122564,2.0,-7.846960660314039
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 18.497136401619798,2.0,-8.059975235940101
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 19.0879954345597,2.0,-8.27298854087553
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 19.678854752399076,2.0,-8.486001165889775
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 20.269714222682467,2.0,-8.699013427091813
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 20.860573774535595,2.0,-8.912025493625151
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 21.45143337003509,2.0,-9.125037455995198
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 22.042292988888875,2.0,-9.338049362629476
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 22.63315262023906,2.0,-9.551061239440628
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 23.22401225827582,2.0,-9.764073100294127
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 23.81487189989045,2.0,-9.977084952608948
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 24.405731543419506,2.0,-10.190096800354922
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 24.996591187972967,2.0,-10.403108645656175
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 25.592256278745623,2.0,-10.601611527018008
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 26.190492667979925,2.0,-10.792350951053436
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 26.79010490775488,2.0,-10.978936303860223
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 27.390453337722647,1.9231679985046384,-11.163298895975686
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 27.739638610172022,1.7725465413369932,-11.270400095011041
+[05:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 28.07899284234699,1.5510576895623984,-11.374365398851296
+[05:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.353442048961,1.0,-4.022349530650786
+[05:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.953074846677708,1.0,-4.207133532758576
+[05:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.553434276790227,1.0,-4.3905322580301345
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.079546034698069,0.0,-4.307094873403912
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.647017661866698,-0.07683200149536162,-4.576288302991657
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.977043310587533,-0.2274534586630068,-4.73284368282043
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.297743087785477,-0.4489423104376016,-4.8849751173698905
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.610126052519632,-0.7384922093173572,-5.033161277405384
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.915092083684812,-1.0,-5.177829041528071
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.450889671750332,-1.0,-5.431997149844165
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.00141315210712,-1.0,-5.693150829592014
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.559816163826326,-1.0,-5.958042349335756
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.122435355676657,-1.0,-6.224933912736901
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.687310541453598,-1.0,-6.492895659622491
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.253392864600983,-1.0,-6.761430040353389
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.820121102887583,-1.0,-7.0302708260378495
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 15.387194957487026,-1.0,-7.299275562903972
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 15.987853356196126,-1.0,-7.422234454915383
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 16.585449394445845,-1.0,-7.376220019755465
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.18140682467066,-1.0,-7.239791326190925
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.77648746841166,-1.0,-7.054983765619909
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 18.37109896118639,-1.0,-6.844289637884231
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 18.965459420632953,-1.0,-6.6197441241812385
+[05:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 19.574587761425818,-1.0,-6.522638994693693
+[05:09:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8877ms behind, skipping 177 tick(s)
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.538674987333096,0.0,-0.16905745206452139
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.146487904640836,0.0,-0.01370145632824915
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.753612711768668,0.0,0.14560759794926526
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.360369324858667,0.0,0.30703185503671193
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.966928924660024,1.0,0.4695879149751363
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.573383106578646,1.0,0.632749580053428
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.179780881490018,2.0,0.7962352923675553
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 14.786148474136454,2.0,0.9598943958968675
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 15.392499916854689,2.0,1.123646277608259
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 15.998842718068332,3.0,1.2874478030752243
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 16.605180895385175,3.0,1.4512758919258886
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.212864259565393,3.0,1.6099436617809033
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 17.822689513635765,4.0,1.7599152345327411
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 18.43599812721726,4.0,1.893996534655571
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 19.05369362203116,4.0,2.0037352615829604
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 19.674210515069774,4.0,2.0966427493179935
+[05:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 20.29716861323668,4.0,2.171409248775376
+[05:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.147466794011791,-0.7384922093173572,4.506794568066766
+[05:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.440963738830007,-1.0,4.669805929141148
+[05:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.948913362046369,-1.0,4.972183150968931
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.094997370132603,2.0,4.273883684947691
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 9.663420340693271,2.0,4.541062398576514
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.231843309009797,2.0,4.808241121732294
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 10.800266276125527,2.0,5.075419849985792
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.368689242598734,2.0,5.342598580966865
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 11.937112208728145,2.0,5.609777313407449
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 12.505535174673597,2.0,5.876956046629061
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.07395814052061,2.0,6.144134780268587
+[05:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 13.642381106314957,2.0,6.411313514131621
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:09:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14395ms behind, skipping 287 tick(s)
+[05:09:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3573ms behind, skipping 71 tick(s)
+[05:10:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2788ms behind, skipping 55 tick(s)
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.4579404717070865,6.0,-8.298362693487093
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.4654425679465639,6.0,-8.924295447283953
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.4769588863081218,6.0,-9.55113184175923
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.4906231348922532,7.0,-10.178451756344884
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.5054366981133747,7.0,-10.80603039290122
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of Allan) moved too quickly! 0.5208652366818853,7.0,-11.433747466425757
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:10:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3024ms behind, skipping 60 tick(s)
+[05:11:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2202ms behind, skipping 44 tick(s)
+[05:11:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:12:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2155ms behind, skipping 43 tick(s)
+[05:12:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:12:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[05:12:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2238ms behind, skipping 44 tick(s)
+[05:13:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2482ms behind, skipping 49 tick(s)
+[05:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported Allan to -150.5, 71.0, 308.5]
+[05:13:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2224ms behind, skipping 44 tick(s)
+[05:13:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3450ms behind, skipping 69 tick(s)
+[05:14:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2381ms behind, skipping 47 tick(s)
+[05:15:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[05:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ursinha: Teleported ursinha to -158.5, 71.0, 306.5]
+[05:20:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan has made the advancement [Enchanter]
+[05:22:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2205ms behind, skipping 44 tick(s)
+[05:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 100 experience to Allan]
+[05:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 100 experience to Allan]
+[05:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 100 experience to Allan]
+[05:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 100 experience to Allan]
+[05:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 100 experience to Allan]
+[05:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 10000 experience to Allan]
+[05:25:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Given 10000 experience to ursinha]
+[05:46:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[05:46:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[05:46:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ursinha lost connection: Disconnected
+[05:46:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha left the game
+[05:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.moon
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.asteroids
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Ceres
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Eris
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Jupiter
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.kepler22b
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.mars
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Mercury
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Neptune
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Pluto
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Saturn
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.Uranus
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/planet.venus
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.callisto
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.deimos
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.europa
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.ganymede
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.iapetus
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.io
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.oberon
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.phobos
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.rhea
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titan
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.titania
+[05:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/moon.triton
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -28
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -30
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -20
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -21
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -15
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -22
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -29
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -13
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -18
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -19
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -16
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -17
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -31
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1505
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1503
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1501
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1506
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1511
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1500
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1509
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1502
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1507
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1508
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1510
+[05:46:56] [Server thread/INFO] [FML]: Unloading dimension -1504
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -20
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -21
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -15
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -22
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -13
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -18
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -19
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -16
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -17
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1505
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1503
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1501
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1506
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1511
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1500
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1509
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1502
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1507
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1508
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1510
+[05:46:56] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -1504
+[05:46:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:46:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:46:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
