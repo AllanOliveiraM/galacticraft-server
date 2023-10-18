@@ -10264,3 +10264,400 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Conexã
 [03:26:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Set ursinha's game mode to Creative Mode]
 [03:27:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:28:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:28:09] [Server thread/INFO] [STDOUT]: [com.mjr.extraplanets.planets.Jupiter.worldgen.dungeon.DungeonStartJupiter:func_74861_a:62]: StructureBoundingBox{x0=-286, y0=41, z0=162, x1=-254, y1=150, z1=194}
+[03:28:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2690ms behind, skipping 53 tick(s)
+[03:28:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18973ms behind, skipping 379 tick(s)
+[03:28:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Allan lost connection: Disconnected
+[03:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan left the game
+[03:28:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4457ms behind, skipping 89 tick(s)
+[03:29:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:27] [Server thread/INFO] [Galacticraft]: Found matching world (-21) for name: -21
+[03:29:27] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player ursinha to dimension -21
+[03:29:27] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -148.5,305.5 lander spawn at: -148.5,305.5
+[03:29:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4383ms behind, skipping 87 tick(s)
+[03:29:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:08] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:30:08] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:30:08] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:30:08] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:30:08] [Netty Epoll Server IO #12/INFO] [FML]: Client protocol version 2
+[03:30:08] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $ModList:17 mods->FMLHandshakeServerState$2:HELLO
+[03:30:08] [Netty Epoll Server IO #12/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,FML@8.0.99.99,betteranimalsplus@9.0.1,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.7.3,baubles@1.5.2,xray@2.0.0,zaraklib@0.0.4,jei@4.16.1.1003,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,multibags@0.0.6,forge@14.23.5.2859,mcp@9.42,journeymap@1.12.2-5.7.1
+[03:30:08] [Netty Epoll Server IO #12/DEBUG] [FML]:   Next: WAITINGCACK
+[03:30:08] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:30:08] [Netty Epoll Server IO #12/DEBUG] [FML]:   Next: COMPLETE
+[03:30:09] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:30:09] [Netty Epoll Server IO #12/DEBUG] [FML]:   Next: DONE
+[03:30:09] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:30:09] [Netty Epoll Server IO #12/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:30:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:30:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Allan[/192.168.0.144:57340] logged in with entity id 165054 at (-180.5404061794217, 92.51813549681555, 324.6818078143917)
+[03:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Allan joined the game
+[03:30:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.860051972568101,0.0,-7.319743849147812
+[03:30:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 5.211723022456084,-5.551413800832194,7.051751431580385
+[03:30:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7007ms behind, skipping 140 tick(s)
+[03:30:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3017ms behind, skipping 60 tick(s)
+[03:30:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3490ms behind, skipping 69 tick(s)
+[03:31:31] [Server thread/INFO] [Galacticraft]: Found matching world (-21) for name: -21
+[03:31:31] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -21
+[03:31:31] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -148.5,298.5 lander spawn at: -148.5,298.5
+[03:31:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2456ms behind, skipping 49 tick(s)
+[03:31:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.639282798314582,-0.3106767715445926,-9.168318783732971
+[03:31:58] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-11, -7] in dimension -21 (planet.Eris) while populating chunk [-12, -6], causing cascading worldgen lag.
+[03:31:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:31:58] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-11, -6] in dimension -21 (planet.Eris) while populating chunk [-11, -7], causing cascading worldgen lag.
+[03:31:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:31:58] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-10, -7] in dimension -21 (planet.Eris) while populating chunk [-11, -6], causing cascading worldgen lag.
+[03:31:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:31:58] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-10, -6] in dimension -21 (planet.Eris) while populating chunk [-10, -7], causing cascading worldgen lag.
+[03:31:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:32:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.577345764706138,0.0,-8.620293025642825
+[03:32:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.880148895607874,0.0,-9.086006366085577
+[03:32:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2625ms behind, skipping 52 tick(s)
+[03:32:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.700056745846666,0.0,-8.709190963120719
+[03:32:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.264452378721899,0.0,-5.311699712357068
+[03:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Allan: Teleported Allan to ursinha]
+[03:32:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.486650434924172,0.0,-7.117198876424084
+[03:32:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.872305498344474,0.0,-7.432571453614344
+[03:32:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.925609065956905,0.0,-7.349783992258068
+[03:32:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -7.628494406987784,0.0,-7.652918479640306
+[03:32:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.77697441837131,0.0,-7.211948206461841
+[03:32:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -10.451316070801454,0.0,0.31304869919247835
+[03:32:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -8.149658214892384,0.0,-5.983227369178621
+[03:32:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.200860712616304,0.0,-1.3948388445864168
+[03:32:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.960765186316735,0.0,-7.107933443636284
+[03:32:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -8.417399629732245,0.0,-5.787844619644659
+[03:32:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10932ms behind, skipping 218 tick(s)
+[03:32:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -6.418763170503098,0.0,-8.135230889727495
+[03:32:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -7.868978349814483,0.0,-6.916029932723745
+[03:32:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.034944948017255,0.0,-9.640822655638203
+[03:32:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.21341933172414,0.0,-8.955066243237127
+[03:32:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -5.569063573038875,0.013168189963266741,-8.664410139164602
+[03:32:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.244199070933519,0.0,-9.007936458738357
+[03:32:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -5.807002008212635,0.0,-8.820178089928504
+[03:32:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6602ms behind, skipping 132 tick(s)
+[03:32:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.356760846289944,0.0,-9.201283299005013
+[03:32:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.473417937822319,0.0,-9.401664644902212
+[03:32:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.451104826717483,0.0,8.763583133489703
+[03:32:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.364243634326044,0.0,-9.214136449362286
+[03:32:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.317621381720869,0.0,8.020867919995112
+[03:32:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.429928978502176,0.0,-9.326963860870706
+[03:33:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.4006867818668525,0.0,-9.276734675128523
+[03:33:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.335131155734871,0.0,7.8371600640674615
+[03:33:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.247660987852441,0.0,7.743703288452849
+[03:33:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.336284527911175,0.0,-9.166111221749816
+[03:33:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.483973127963736,0.0,-9.419795246128047
+[03:33:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.324683490377993,0.0,7.825997342643802
+[03:33:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.464680514104543,0.0,-8.955241394905443
+[03:33:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.863905290777893,0.0,7.33368269582607
+[03:33:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.585546253881034,0.0,-8.90042742366279
+[03:33:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.602969546488453,0.0,7.718210170373027
+[03:33:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9529ms behind, skipping 190 tick(s)
+[03:33:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.722839174157116,0.0,7.828701559514144
+[03:33:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.808851478947304,0.0,-5.750016398466528
+[03:33:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.367388274008476,0.0,-5.855705445251601
+[03:33:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.782486452235105,0.0,7.686460244397438
+[03:33:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.419683257039878,0.0,-4.190644170633277
+[03:33:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.368336189399713,0.0,6.9539322829017465
+[03:33:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.332362976307707,0.0,6.916089891227685
+[03:33:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[03:33:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-12, -6] in dimension -21 (planet.Eris) while populating chunk [-12, -8], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-12, -7] in dimension -21 (planet.Eris) while populating chunk [-12, -8], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-11, -7] in dimension -21 (planet.Eris) while populating chunk [-12, -7], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-11, -6] in dimension -21 (planet.Eris) while populating chunk [-12, -7], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-10, -7] in dimension -21 (planet.Eris) while populating chunk [-12, -7], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:32] [Server thread/WARN] [FML]: Galacticraft Core loaded a new chunk [-10, -6] in dimension -21 (planet.Eris) while populating chunk [-12, -7], causing cascading worldgen lag.
+[03:33:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 9.08945554002122,0.0,5.964307100869306
+[03:33:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.964712993553064,0.0,5.876322003299954
+[03:33:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.741943557590133,0.0,5.7302978150015775
+[03:33:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2535ms behind, skipping 50 tick(s)
+[03:33:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.52347638566323,0.0,5.810786459584051
+[03:33:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3080ms behind, skipping 61 tick(s)
+[03:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ursinha fell out of the world
+[03:34:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:57] [Server thread/INFO] [Galacticraft]: Found matching world (-19) for name: -19
+[03:36:57] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player ursinha to dimension -19
+[03:36:57] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -127.5,309.5 lander spawn at: -127.5,309.5
+[03:37:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4039ms behind, skipping 80 tick(s)
+[03:37:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[03:38:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.073639899340094,-7.29714050379782,-6.357731152619465
+[03:38:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2671ms behind, skipping 53 tick(s)
+[03:38:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.270365332301651,2.446947937232963,-8.835782132030658
+[03:38:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.953934984409614,0.0,-5.724444682245974
+[03:38:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.710480403419552,0.0,-8.85688603769978
+[03:38:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -6.109706288229404,3.3750001341077507,-7.624841607038057
+[03:38:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4022ms behind, skipping 80 tick(s)
+[03:38:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:20] [Server thread/INFO] [Galacticraft]: Found matching world (-15) for name: -15
+[03:39:20] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -15
+[03:39:20] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -121.5,321.5 lander spawn at: -121.5,321.5
+[03:39:20] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-10, 21] in dimension -15 (planet.Jupiter) while populating chunk [-11, 21], causing cascading worldgen lag.
+[03:39:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:39:21] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-15, 16] in dimension -15 (planet.Jupiter) while populating chunk [-14, 15], causing cascading worldgen lag.
+[03:39:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:39:22] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-16, 15] in dimension -15 (planet.Jupiter) while populating chunk [-15, 16], causing cascading worldgen lag.
+[03:39:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:39:22] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-15, 15] in dimension -15 (planet.Jupiter) while populating chunk [-14, 15], causing cascading worldgen lag.
+[03:39:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:39:25] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-11, 17] in dimension -15 (planet.Jupiter) while populating chunk [-12, 17], causing cascading worldgen lag.
+[03:39:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:39:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.138135804654212,0.0,-8.58717545005068
+[03:39:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.944631288198423,0.0,-8.838054915937555
+[03:39:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.299958205289045,0.0,-9.174118383703737
+[03:39:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.471519097853445,0.0,-9.501326780850905
+[03:39:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 16175ms behind, skipping 323 tick(s)
+[03:39:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.185621685221918,-0.931831327260852,-9.136782327228833
+[03:39:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.099021589512063,0.0,-9.388599219869338
+[03:39:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.784897835539368,0.0,-9.161555519837862
+[03:39:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.740506901832475,0.0,-9.009662284968371
+[03:39:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.765740178634928,0.0,-9.057619878331678
+[03:40:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.8831241642387795,0.0,-8.438940229718654
+[03:40:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.90078191306003,0.0,-8.353366190837818
+[03:40:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.799611100182858,0.0,-8.588106301333141
+[03:40:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 33490ms behind, skipping 669 tick(s)
+[03:40:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.0434779032916595,0.0,-9.665854725389465
+[03:40:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.03226609785105,0.0,-9.965985027282812
+[03:40:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.194077820659686,8.047502985118541,0.5345077056995251
+[03:40:28] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-18, 11] in dimension -15 (planet.Jupiter) while populating chunk [-17, 11], causing cascading worldgen lag.
+[03:40:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:28] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-18, 10] in dimension -15 (planet.Jupiter) while populating chunk [-18, 11], causing cascading worldgen lag.
+[03:40:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:29] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-17, 10] in dimension -15 (planet.Jupiter) while populating chunk [-18, 10], causing cascading worldgen lag.
+[03:40:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:29] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-18, 10] in dimension -15 (planet.Jupiter) while populating chunk [-17, 11], causing cascading worldgen lag.
+[03:40:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 23895ms behind, skipping 477 tick(s)
+[03:40:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 0.3901779849705491,-10.12500040024267,-0.20135522335311862
+[03:40:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.7341411109720752,0.0,-10.215029861318868
+[03:40:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.059793492599397,0.0,-9.798940030764953
+[03:40:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.059793492599397,0.0,-9.798940030764953
+[03:40:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.9830735373002994,0.0,-9.613764542773112
+[03:40:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.059793492599397,0.0,-9.798940030764925
+[03:40:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -1.660861524771093,10.040983536552275,2.1288196103351993
+[03:40:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.059085851088298,0.0,-9.799221669419524
+[03:40:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 19202ms behind, skipping 384 tick(s)
+[03:40:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -4.3686986603625115,4.124979672633202,8.388365846231864
+[03:40:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -8.301031584575853,5.812595443431164,3.110849833363659
+[03:40:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5271ms behind, skipping 105 tick(s)
+[03:41:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -6.62576033947397,0.0,-8.050998361465929
+[03:41:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2339ms behind, skipping 46 tick(s)
+[03:41:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 0.987281628894209,2.035058486857892,9.79781181896385
+[03:41:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 0.9185416206861277,0.0,10.01096071080326
+[03:41:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.32901675244625,0.0,-9.065386487833564
+[03:41:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -9.338078593388573,0.0,5.145456427291322
+[03:41:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.4051570159186326,0.0,-9.734634847168252
+[03:41:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4713ms behind, skipping 94 tick(s)
+[03:41:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.400990052174166,0.0,-9.356930639578081
+[03:41:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.538255402071911,0.0,-9.12021243015704
+[03:41:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -2.947949417018833,0.0,-9.671336843421614
+[03:41:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -9.738766872812832,0.0,-2.71675147552088
+[03:41:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.689942992799558,0.0,-1.4320835932369391
+[03:41:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -9.599514377321157,-4.672764664732796,-0.7500244971997745
+[03:41:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -3.7630543453927885,0.0,-9.625607867348776
+[03:41:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -9.582274098446902,-3.2491870903009357,-0.9504890775036188
+[03:42:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 1.9880795133442462,0.0,-10.098921798526362
+[03:42:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -1.878474398447679,0.0,-9.965944216728644
+[03:42:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.273517916649325,0.0,-9.376176043840815
+[03:42:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.762635173518788,0.0,6.823353927588414
+[03:42:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -5.0614170344375395,0.19567468696439505,-8.724916907913666
+[03:42:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.254260341619215,0.0,5.687327368635238
+[03:42:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -5.964986942199346,0.0,-8.194560296952204
+[03:42:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.8571174424853325,0.0,-8.17310823322805
+[03:42:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 4.53955827613288,0.0,-9.453823393424216
+[03:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 4.191797059456491,0.0,-9.261759597857917
+[03:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.146162181027762,0.0,-8.967603300433098
+[03:42:24] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-17, 10] in dimension -15 (planet.Jupiter) while populating chunk [-19, 11], causing cascading worldgen lag.
+[03:42:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:42:24] [Server thread/WARN] [FML]: Extra Planets loaded a new chunk [-18, 10] in dimension -15 (planet.Jupiter) while populating chunk [-19, 11], causing cascading worldgen lag.
+[03:42:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:42:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.852825886688521,1.713744068098066,8.060575546069344
+[03:42:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.97269665920544,3.1818313478432287,-8.436208548032823
+[03:42:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.756878791687882,4.052364640080313,6.347652618925849
+[03:42:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.451680522976375,5.437658903505437,2.615198206634716
+[03:42:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.977113022581534,-5.999265781607775,-6.764609356306551
+[03:42:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 37611ms behind, skipping 752 tick(s)
+[03:42:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.194709854945927,-5.6099928937922385,-6.843850171643908
+[03:42:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.473023054217066,0.0,5.757586462293887
+[03:42:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2541ms behind, skipping 50 tick(s)
+[03:42:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.26668876415863,5.849999842372739,-6.93867988955401
+[03:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.190116734639332,0.0,-4.816950124285654
+[03:42:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.331163668655677,0.0,-9.394073787860975
+[03:42:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3199ms behind, skipping 63 tick(s)
+[03:43:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.331163705763856,0.0,-9.394073054584396
+[03:43:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.330148275127044,0.0,-9.39187063735153
+[03:43:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.3311640061125445,0.0,-9.394073706025438
+[03:43:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7740ms behind, skipping 154 tick(s)
+[03:43:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.3273602736985595,0.0,-9.385823604527104
+[03:43:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.313963129523245,0.0,-9.356765882479749
+[03:43:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3176ms behind, skipping 63 tick(s)
+[03:43:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.532653719203154,0.0,-7.082799358908915
+[03:43:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4482ms behind, skipping 89 tick(s)
+[03:44:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:44:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:04] [Server thread/INFO] [Galacticraft]: Found matching world (-16) for name: -16
+[03:45:04] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -16
+[03:45:04] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -115.5,357.5 lander spawn at: -115.5,357.5
+[03:45:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8080ms behind, skipping 161 tick(s)
+[03:45:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3579ms behind, skipping 71 tick(s)
+[03:45:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
+[03:46:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2232ms behind, skipping 44 tick(s)
+[03:46:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
+[03:46:58] [Server thread/INFO] [Galacticraft]: Found matching world (-31) for name: -31
+[03:46:58] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player ursinha to dimension -31
+[03:46:59] [Server thread/WARN] [FML]: Galacticraft Planets loaded a new chunk [-59, -84] in dimension -31 (planet.venus) while populating chunk [-59, -83], causing cascading worldgen lag.
+[03:46:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:46:59] [Server thread/WARN] [FML]: Galacticraft Planets loaded a new chunk [-58, -84] in dimension -31 (planet.venus) while populating chunk [-59, -84], causing cascading worldgen lag.
+[03:46:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:46:59] [Server thread/WARN] [FML]: Galacticraft Planets loaded a new chunk [-58, -83] in dimension -31 (planet.venus) while populating chunk [-58, -84], causing cascading worldgen lag.
+[03:46:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:47:00] [Server thread/WARN] [FML]: Galacticraft Planets loaded a new chunk [-58, -85] in dimension -31 (planet.venus) while populating chunk [-59, -85], causing cascading worldgen lag.
+[03:47:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:47:00] [Server thread/WARN] [FML]: Galacticraft Planets loaded a new chunk [-57, -82] in dimension -31 (planet.venus) while populating chunk [-57, -83], causing cascading worldgen lag.
+[03:47:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:47:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6270ms behind, skipping 125 tick(s)
+[03:47:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18122ms behind, skipping 362 tick(s)
+[03:47:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:48:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
+[03:48:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:48:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[03:48:36] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[03:49:02] [Server thread/INFO] [Galacticraft]: Found matching world (-30) for name: -30
+[03:49:05] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -30
+[03:49:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 10.11428452372354,0.0,0.3785168705733213
+[03:49:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11439ms behind, skipping 228 tick(s)
+[03:49:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:49:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4805ms behind, skipping 96 tick(s)
+[03:49:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2476ms behind, skipping 49 tick(s)
+[03:50:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2570ms behind, skipping 51 tick(s)
+[03:50:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
+[03:50:30] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[03:50:38] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-1, 21), EntitySmallAsteroid['Small Asteroid'/211278, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2427ms behind, skipping 48 tick(s)
+[03:50:50] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-13, 25), EntitySmallAsteroid['Small Asteroid'/211590, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:50:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 8.728706306473967,-4.280324602350959,2.9531967277217177
+[03:50:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -2.0200277893465994,6.234376370869768,8.158962961278235
+[03:50:55] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-3, 26), EntitySmallAsteroid['Small Asteroid'/211595, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:55] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-17, 13), EntitySmallAsteroid['Small Asteroid'/211596, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:55] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-17, 21), EntitySmallAsteroid['Small Asteroid'/211598, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:55] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-17, 20), EntitySmallAsteroid['Small Asteroid'/211599, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:55] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-17, 19), EntitySmallAsteroid['Small Asteroid'/211600, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:56] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-13, 27), EntitySmallAsteroid['Small Asteroid'/211610, l='world', x=0,00, y=0,00, z=0,00]
+[03:50:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:50:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 3.9331811793584848,3.750000149009992,9.036018893165533
+[03:50:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.425629824698319,0.0,8.11012926329829
+[03:51:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.877914847899959,-5.999841595747469,3.1290644029155033
+[03:51:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5370ms behind, skipping 107 tick(s)
+[03:51:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 7.155872113126023,-1.3068313474792745,6.95910749553326
+[03:51:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! 6.123971523707425,-0.1768620034492301,8.02396691663688
+[03:51:15] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-11, 18), EntitySmallAsteroid['Small Asteroid'/211945, l='world', x=0,00, y=0,00, z=0,00]
+[03:51:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:51:18] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-9, 18), EntitySmallAsteroid['Small Asteroid'/211991, l='world', x=0,00, y=0,00, z=0,00]
+[03:51:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:51:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3013ms behind, skipping 60 tick(s)
+[03:51:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4024ms behind, skipping 80 tick(s)
+[03:51:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:01] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-10, 17), EntitySmallAsteroid['Small Asteroid'/212796, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:02] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-7, 16), EntitySmallAsteroid['Small Asteroid'/212798, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:02] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-9, 16), EntitySmallAsteroid['Small Asteroid'/212815, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -0.010062505141831934,3.3750001341104934,-9.739350786616967
+[03:52:04] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-10, 14), EntitySmallAsteroid['Small Asteroid'/212850, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:06] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-7, 13), EntitySmallAsteroid['Small Asteroid'/212855, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:06] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-7, 13), EntitySmallAsteroid['Small Asteroid'/212856, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:06] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-8, 13), EntitySmallAsteroid['Small Asteroid'/212857, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:06] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-8, 13), EntitySmallAsteroid['Small Asteroid'/212858, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.264822446747033,3.7500004846269377,-1.6816861722497265
+[03:52:13] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-13, 23), EntitySmallAsteroid['Small Asteroid'/212998, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Allan moved too quickly! -10.691937107120523,0.0,0.3010460899932923
+[03:52:15] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-15, 15), EntitySmallAsteroid['Small Asteroid'/213015, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:17] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-2, 29), EntitySmallAsteroid['Small Asteroid'/213021, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:19] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (-16, 18), EntitySmallAsteroid['Small Asteroid'/213027, l='world', x=0,00, y=0,00, z=0,00]
+[03:52:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:52:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2013ms behind, skipping 40 tick(s)
+[03:52:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[03:53:01] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (0, 19), EntitySmallAsteroid['Small Asteroid'/213635, l='world', x=0,00, y=0,00, z=0,00]
+[03:53:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:53:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:53:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3366ms behind, skipping 67 tick(s)
+[03:53:32] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (0, 23), EntitySmallAsteroid['Small Asteroid'/214019, l='world', x=0,00, y=0,00, z=0,00]
+[03:53:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[03:53:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2505ms behind, skipping 50 tick(s)
+[03:53:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:54:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 8.459970379327387,-2.244595864246037,-4.852327331743481
+[03:54:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 0.472045594538713,0.0,10.21507505727368
+[03:54:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 4.1621911826656515,9.080312765299809,2.8362897123126913
+[03:54:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7003ms behind, skipping 140 tick(s)
+[03:55:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3027ms behind, skipping 60 tick(s)
+[03:55:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.680223768446808,0.0,8.421738950952658
+[03:55:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -5.972425799228176,0.0,8.97774887107903
+[03:55:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -10.058300995911054,0.0,3.6109213329957583
+[03:55:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.331788410705599,3.374943582345921,-4.95153215009168
+[03:55:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.580783479808474,5.437658903505437,-0.2429124095251609
+[03:55:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.4294427909565,0.0,4.351043561191318
+[03:55:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.561404995832845,0.0,6.7408343227589285
+[03:55:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.9207039291306955,0.0,6.879986704925841
+[03:55:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.975324385105068,3.3693885573631093,-5.390451533616897
+[03:55:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.64922550947017,3.7499797074736705,-4.578946096147547
+[03:55:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.573995896331098,4.802195403281459,1.0264738838980065
+[03:55:42] [Server thread/INFO] [Galacticraft]: Found matching world (-1501) for name: -1501
+[03:55:42] [Server thread/INFO] [Galacticraft]: Server attempting to transfer player Allan to dimension -1501
+[03:55:42] [Server thread/INFO] [com.mjr.mjrlegendslib.util.MessageUtilities]: ExtraPlanets: Entering lander at : -137.5,333.5 lander spawn at: -137.5,333.5
+[03:55:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -4.906991168789773,0.0,9.148503228243726
+[03:55:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.441431473276907,0.0,6.4207203837024736
+[03:55:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.64152707136077,-3.573914829446892,6.0264202153814495
+[03:55:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.1243142242101385,-5.999953642099413,5.00146068588856
+[03:55:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -10.62564050840274,0.0,2.4006842631031304
+[03:55:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.554462918309582,-2.8181688159839524,1.9804722929065974
+[03:55:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.244856939573992,0.0,-7.870214532721548
+[03:55:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -7.147535230923268,0.0,-7.168286552955578
+[03:55:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -9.799291512099671,0.0,-3.2849819709824715
+[03:56:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -8.004044098861868,1.0,-6.037852192129321
+[03:56:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! 3.722926324240916,-9.835785352356112,-1.7093292845197539
+[03:56:29] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: A single server tick took 60,81 seconds (should be max 0,05)
+[03:56:29] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: Considering it to be crashed, server will forcibly shutdown.
+[03:56:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ursinha moved too quickly! -0.527326459898859,1.4740413096359504,-10.033668991460218
+[03:56:31] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog]: This crash report has been saved to: /home/allan/Documentos/galacticraft-server/./crash-reports/crash-2023-10-18_03.56.31-server.txt
+[03:56:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:56:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
