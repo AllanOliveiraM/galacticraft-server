@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2023-10-17 22:37:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2023-10-15 03:21:05 -0300"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-10-14 18:48:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-17 22:37:32 -0300"
     },
     "done": true
   },
@@ -804,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2023-10-17 22:37:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2023-10-15 02:10:19 -0300"
@@ -928,6 +946,12 @@
   "galacticraftcore:galacticraft/launch_rocket": {
     "criteria": {
       "launched_rocket": "2023-10-16 00:59:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-17 22:37:32 -0300"
     },
     "done": true
   },
@@ -1291,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2023-10-17 22:37:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-10-14 17:36:59 -0300"
@@ -1366,6 +1396,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-10-14 18:57:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-10-17 21:15:36 -0300"
     },
     "done": true
   },
